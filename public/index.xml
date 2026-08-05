@@ -6,8 +6,15 @@
     <description>Recent content in Home on V2K Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:55:06 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passport Photo</title>
+      <link>http://localhost:1313/image/passport-photo-maker/</link>
+      <pubDate>Wed, 05 Aug 2026 18:55:06 +0530</pubDate>
+      <guid>http://localhost:1313/image/passport-photo-maker/</guid>
+      <description>&lt;style&gt;&#xA;.passport-guide{&#xA;    max-width:900px;&#xA;    margin:auto;&#xA;    font-family:Arial,sans-serif;&#xA;}&#xA;.passport-guide .step{&#xA;    background:#fff;&#xA;    border:1px solid #e5e7eb;&#xA;    border-radius:12px;&#xA;    margin:25px 0;&#xA;    overflow:hidden;&#xA;    box-shadow:0 3px 10px rgba(0,0,0,.08);&#xA;}&#xA;.passport-guide .step-title{&#xA;    background:linear-gradient(135deg,#0f9d58,#34a853);&#xA;    color:#fff;&#xA;    font-size:20px;&#xA;    font-weight:700;&#xA;    padding:12px 18px;&#xA;}&#xA;.passport-guide .step-content{&#xA;    padding:18px;&#xA;}&#xA;.passport-guide p{&#xA;    font-size:17px;&#xA;    line-height:1.8;&#xA;    color:#333;&#xA;    margin-bottom:15px;&#xA;}&#xA;.passport-guide img{&#xA;    width:100%;&#xA;    border-radius:8px;&#xA;    border:1px solid #ddd;&#xA;}&#xA;.passport-guide .btn{&#xA;    display:inline-block;&#xA;    background:#ff5722;&#xA;    color:#fff!important;&#xA;    text-decoration:none;&#xA;    padding:14px 28px;&#xA;    border-radius:8px;&#xA;    font-weight:bold;&#xA;    font-size:18px;&#xA;}&#xA;.passport-guide .btn:hover{&#xA;    background:#e64a19;&#xA;}&#xA;.passport-guide .cta{&#xA;    text-align:center;&#xA;    margin:40px 0;&#xA;    padding:25px;&#xA;    background:#f5f7fa;&#xA;    border-radius:12px;&#xA;    border:2px dashed #0f9d58;&#xA;}&#xA;.passport-guide .privacy{&#xA;    margin:40px 0;&#xA;    padding:22px;&#xA;    background:#eef9ff;&#xA;    border-left:6px solid #2196f3;&#xA;    border-radius:10px;&#xA;}&#xA;.passport-guide ul{&#xA;    padding-left:22px;&#xA;    line-height:1.9;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h1&gt;फ्री पासपोर्ट फोटो मेकर ऑनलाइन&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;&#xA;अब घर बैठे कुछ ही मिनटों में पासपोर्ट, वीज़ा, आधार कार्ड, पैन कार्ड, ड्राइविंग लाइसेंस, सरकारी फॉर्म, नौकरी आवेदन, आईडी कार्ड तथा अन्य आधिकारिक दस्तावेज़ों के लिए प्रोफेशनल पासपोर्ट साइज फोटो तैयार करें। अपनी फोटो अपलोड करें, लेआउट को अपनी आवश्यकता अनुसार कस्टमाइज़ करें और प्रिंट-रेडी JPG या PDF डाउनलोड करें।&#xA;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Post 3</title>
       <link>http://localhost:1313/posts/post-3/</link>
