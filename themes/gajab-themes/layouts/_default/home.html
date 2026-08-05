@@ -4,7 +4,7 @@
 <style>
 .tools-grid{
     display:grid;
-    grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
+    grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
     gap:20px;
 }
 
@@ -31,11 +31,12 @@
 </style>
 </head>
 <body>
+<h3> जल्द ही सभी Tools अपडेट कर दिये जायें आप यहां बने रहें नये टूल के जानकारी के लियें <a href ="https://whatsapp.com/channel/0029VaDp3nh2P59bZFXPgb35" target="_blank"> Whatsapp Channel Join करें </a></h3>
 
 <h2>Popular Tools</h2>
 
 <div class="tools-grid">
-{{ range where site.RegularPages "Section" "tools" }}
+{{ range where site.RegularPages "Section" "posts" }}
 <a href="{{ .RelPermalink }}" class="tool-card">
 
     <img src="{{ .Params.image }}" alt="{{ .Title }}">

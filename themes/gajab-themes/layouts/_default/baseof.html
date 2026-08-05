@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+   {{ if eq .Type "tools" }} {{ partial "tools-parts/head.html" . }} {{ else }} 
 <head>
   {{ partial "head.html" . }}
-</head>
+</head> {{ end }}
 <body>
+  {{ if eq .Type "tools" }} {{ partial "tools-parts/header.html" . }} {{ else }} 
   <header>
     {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
+  </header> {{ end }}
+
+{{ if eq .Type "tools" }} <main> {{ block "tools" . }}{{ end }} </main> {{ else }} 
+<main> {{ block "main" . }}{{ end }}</main>{{ end }}
+   {{ if eq .Type "tools" }} {{ partial "tools-parts/footer.html" . }} {{ else }} 
   <footer>
     {{ partial "footer.html" . }}
-  </footer>
+  </footer> {{ end }}
 </body>
 </html>
+
