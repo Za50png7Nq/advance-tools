@@ -1,0 +1,4 @@
+baseURL = 'https://tools.v2kcomputers.com/'
+languageCode = 'en-us'
+title = 'V2k Tools'
+theme = "gajab-themes"
