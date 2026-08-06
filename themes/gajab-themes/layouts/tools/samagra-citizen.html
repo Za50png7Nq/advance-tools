@@ -1,0 +1,193 @@
+{{define "tools"}}
+
+
+<style>
+body{
+  
+    justify-content:center;
+    align-items:center;
+   
+}
+
+.box{
+    background:#fff;
+    padding:25px;
+    width:400px;
+    border-radius:12px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+input{
+    width:100%;
+    padding:12px;
+    margin-bottom:15px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    box-sizing:border-box;
+}
+
+button{
+    width:100%;
+    padding:12px;
+    background:#007bff;
+    color:#fff;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+}
+</style>
+
+<body>
+
+<div class="box">
+
+    <h2>Print Samagra</h2>
+
+    <input
+    type="text"
+    id="familyId"
+    placeholder="8 Digit ID"
+    maxlength="8"
+    inputmode="numeric"
+    value="50000000"
+    hidden
+    required>
+
+   <input
+    type="text"
+    id="samagraid"
+    placeholder="9 Digit ID"
+    maxlength="9"
+    inputmode="numeric"
+    required>
+  
+   <input
+    type="text"
+    id="mobileno"
+    placeholder="10 Digit ID"
+    maxlength="10"
+    inputmode="numeric"
+    value="9876543210"
+    hidden
+    required>
+
+    <button onclick="generateURL()">
+        Continue
+    </button>
+
+</div>
+
+<script>
+
+const chars =
+"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+function toBase62(num){
+
+    let result="";
+
+    while(num>0){
+        result =
+        chars[num%62] +
+        result;
+
+        num =
+        Math.floor(num/62);
+    }
+
+    return result || "0";
+}
+
+function generateURL(){
+  
+  
+  
+const familyId =
+document.getElementById("familyId")
+.value.trim();
+
+const samagraid =
+document.getElementById("samagraid")
+.value.trim();
+  const mobileno =
+document.getElementById("mobileno")
+.value.trim();
+
+if(!familyId){
+    alert("Please enter 8 digit Family ID");
+    return;
+}
+
+if(!samagraid){
+    alert("Please enter 9 digit Samagra ID");
+    return;
+}
+
+if(familyId.length !== 8){
+    alert("Family ID must be 8 digits");
+    return;
+}
+
+if(samagraid.length !== 9){
+    alert("Samagra ID must be 9 digits");
+    return;
+}
+
+    if(
+        !familyId ||
+        !samagraid
+    ){
+        alert(
+            "Enter Family ID & Samagra ID"
+        );
+        return;
+    }
+
+    const token =
+    toBase62(Number(familyId))
+    +
+    toBase62(Number(samagraid));
+
+    const data = {
+
+        FamilyId:
+        Number(familyId),
+
+        samagraid:
+        Number(samagraid),
+
+        mobileno: (mobileno),
+
+        token:
+        token
+    };
+
+    localStorage.setItem(
+        "samagraData",
+        JSON.stringify(data)
+    );
+
+    localStorage.setItem(
+        "validToken",
+        token
+    );
+
+    localStorage.setItem(
+        "tokenTime",
+        Date.now()
+    );
+    localStorage.setItem(
+        "siteOrigin",
+        location.hostname
+    );
+
+    location.href =
+    "verify-citizen?token=" +
+    encodeURIComponent(token);
+
+}
+
+</script>
+
+
+{{ end }}

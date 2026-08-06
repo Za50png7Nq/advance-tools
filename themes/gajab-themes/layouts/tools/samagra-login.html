@@ -1,0 +1,483 @@
+{{define "tools"}}
+
+
+
+<style>
+
+
+.box{
+    width:450px;
+    max-width:100%;
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,.1);
+}
+
+h2{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.timer{
+    text-align:center;
+    font-size:55px;
+    font-weight:bold;
+    color:#007bff;
+    margin-bottom:15px;
+}
+
+.msg{
+    text-align:center;
+    color:#666;
+    margin-bottom:20px;
+}
+
+.progress-wrap{
+    width:100%;
+    height:14px;
+    background:#e5e5e5;
+    border-radius:50px;
+    overflow:hidden;
+    margin-bottom:20px;
+}
+
+.progress-bar{
+    width:0%;
+    height:100%;
+    background:linear-gradient(
+        90deg,
+        #00c853,
+        #64dd17
+    );
+    transition:width 1s linear;
+}
+
+.security-box{
+    background:#f8f9fa;
+    border:1px solid #e0e0e0;
+    border-radius:10px;
+    padding:15px;
+}
+
+.security-title{
+    font-weight:bold;
+    margin-bottom:10px;
+}
+
+.security-status{
+    min-height:25px;
+    color:#333;
+}
+
+.footer{
+    text-align:center;
+    margin-top:15px;
+    color:#999;
+    font-size:12px;
+}
+</style>
+
+<body>
+
+<div class="box">
+
+    <h2>Verification Process</h2>
+  <div style="display:none">
+
+<textarea id="securityConfig">
+🔐 Checking Secure Connection...
+🛡️ Validating User Session...
+🔍 Scanning Authentication Request...
+🔒 Encrypting Payload...
+📡 Establishing Secure Tunnel...
+🔑 Generating Access Signature...
+🛡️ Applying Security Policies...
+📁 Verifying User Records...
+✅ Identity Verification Passed...
+🚀 Finalizing Authentication...
+</textarea>
+
+<input
+    type="number"
+    id="timeConfig"
+    value="5"
+>
+
+</div>
+
+    <div class="timer" id="timer">
+        5
+    </div>
+
+    <div class="msg">
+        Please wait while your information is being verified...
+    </div>
+
+    <div class="progress-wrap">
+        <div class="progress-bar" id="progressBar"></div>
+    </div>
+
+    <div class="security-box">
+
+        <div class="security-title">
+            Security Checks
+        </div>
+
+        <div
+            class="security-status"
+            id="securityStatus">
+            Initializing...
+        </div>
+
+    </div>
+
+    <div class="footer">
+        Secure Authentication Gateway
+    </div>
+
+</div>
+
+<script>
+  /* =========================
+   USER CONFIG
+========================= */
+
+const TOTAL_SECONDS =
+parseInt(
+    document.getElementById(
+        "timeConfig"
+    ).value
+) || 30;
+
+const securitySteps =
+document.getElementById(
+    "securityConfig"
+)
+.value
+.split("\n")
+.map(x => x.trim())
+.filter(x => x);
+
+
+/* =========================
+   DOMAIN CHECK
+========================= */
+
+const allowedDomains = [
+    "v2kcomputers.com",
+    "tools.v2kcomputers.com",
+    "localhost:1313/"
+];
+
+const savedOrigin =
+localStorage.getItem("siteOrigin");
+
+if(
+    !savedOrigin ||
+    !allowedDomains.includes(savedOrigin)
+){
+    window.location.replace(
+        "https://tools.v2kcomputers.com"
+    );
+    throw new Error(
+        "Unauthorized Access"
+    );
+}
+
+
+/* =========================
+   TOKEN CHECK
+========================= */
+
+const urlToken =
+new URLSearchParams(
+    location.search
+).get("token");
+
+const savedToken =
+localStorage.getItem(
+    "validToken"
+);
+
+const tokenTime =
+localStorage.getItem(
+    "tokenTime"
+);
+
+if(
+    !urlToken ||
+    !savedToken ||
+    urlToken !== savedToken
+){
+    window.location.replace(
+        "https://tools.v2kcomputers.com"
+    );
+
+    throw new Error(
+        "Invalid Token"
+    );
+}
+
+
+/* =========================
+   TOKEN EXPIRY
+========================= */
+
+if(
+    !tokenTime ||
+    Date.now() -
+    Number(tokenTime) >
+    (
+        TOTAL_SECONDS * 1000 +
+        30000
+    )
+){
+
+    localStorage.clear();
+
+    window.location.replace(
+        "https://tools.v2kcomputers.com"
+    );
+
+    throw new Error(
+        "Token Expired"
+    );
+}
+
+
+/* =========================
+   DATA LOAD
+========================= */
+
+const data =
+JSON.parse(
+    localStorage.getItem(
+        "samagraData"
+    )
+);
+
+if(!data){
+
+    localStorage.clear();
+
+    window.location.replace(
+        "https://tools.v2kcomputers.com"
+    );
+
+    throw new Error(
+        "Session Expired"
+    );
+}
+
+
+/* =========================
+   RANDOM STRING
+========================= */
+
+function randomString(length){
+
+    const chars =
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+
+    let result = "";
+
+    for(
+        let i = 0;
+        i < length;
+        i++
+    ){
+
+        result +=
+        chars.charAt(
+            Math.floor(
+                Math.random() *
+                chars.length
+            )
+        );
+    }
+
+    return result;
+}
+
+
+/* =========================
+   FAKE URL UPDATE
+========================= */
+
+function updateFakeURL(){
+
+    const fakeURL =
+    "/Citizen/?R=" +
+    randomString(70) +
+    "&S=" +
+    randomString(80) +
+    "&T=" +
+    randomString(90) +
+    "&X=" +
+    randomString(100);
+
+    history.pushState(
+        {},
+        "",
+        fakeURL
+    );
+}
+  </script>
+  
+<script>
+  const securityStatus =
+document.getElementById(
+    "securityStatus"
+);
+
+let securityIndex = 0;
+
+function updateSecurity(){
+
+    if(
+        securityIndex <
+        securitySteps.length
+    ){
+
+        securityStatus.innerHTML =
+        securitySteps[
+            securityIndex
+        ];
+
+        securityIndex++;
+    }
+}
+
+updateSecurity();
+
+const securityInterval =
+(
+    TOTAL_SECONDS * 1000
+) /
+securitySteps.length;
+
+setInterval(
+    updateSecurity,
+    securityInterval
+);
+  </script>
+  <script>
+    const timer =
+document.getElementById(
+    "timer"
+);
+
+const progressBar =
+document.getElementById(
+    "progressBar"
+);
+
+updateFakeURL();
+
+let seconds =
+TOTAL_SECONDS;
+
+const fakeURLUpdates = 5;
+
+const interval =
+setInterval(()=>{
+
+    timer.textContent =
+    seconds;
+
+    const percent =
+    (
+        (
+            TOTAL_SECONDS -
+            seconds
+        ) /
+        TOTAL_SECONDS
+    ) * 100;
+
+    progressBar.style.width =
+    percent + "%";
+
+
+    for(
+        let i = 1;
+        i <= fakeURLUpdates;
+        i++
+    ){
+
+        const triggerPoint =
+        Math.floor(
+            TOTAL_SECONDS -
+            (
+                TOTAL_SECONDS /
+                fakeURLUpdates
+            ) * i
+        );
+
+        if(
+            seconds ===
+            triggerPoint
+        ){
+            updateFakeURL();
+        }
+    }
+
+
+    if(
+        seconds <= 0
+    ){
+
+        clearInterval(
+            interval
+        );
+
+        progressBar.style.width =
+        "100%";
+
+        securityStatus.innerHTML =
+        "✅ Verification Completed";
+
+        const base64 =
+        btoa(
+            JSON.stringify(data)
+        );
+
+        const finalURL =
+        "https://samagra.gov.in/Citizen/RFC/ChangRequestLogin.aspx?R=" +
+        encodeURIComponent(
+            base64
+        );
+
+        localStorage.removeItem(
+            "validToken"
+        );
+
+        localStorage.removeItem(
+            "tokenTime"
+        );
+
+        localStorage.removeItem(
+            "samagraData"
+        );
+
+        localStorage.removeItem(
+            "siteOrigin"
+        );
+
+        setTimeout(()=>{
+
+            window.location.replace(
+                finalURL
+            );
+
+        },1000);
+    }
+
+    seconds--;
+
+},1000);
+  </script>
+
+
+
+{{ end }}
