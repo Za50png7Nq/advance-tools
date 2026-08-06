@@ -6,8 +6,15 @@
     <description>Recent content in Posts on V2K Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:35:00 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:23:30 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samagra Id Print - Gajab Tools</title>
+      <link>http://localhost:1313/samagra-id-print/</link>
+      <pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate>
+      <guid>http://localhost:1313/samagra-id-print/</guid>
+      <description>&lt;head&gt;&#xD;&#xA;   &#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.yojnaportal.com/stylesheet/universal-design.css&#34; &gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .yp-styles {margin: 50px}&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;div class=&#34;yp-styles&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;h2&gt;समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2&gt;&#xD;&#xA;    &lt;ul&gt; &#xD;&#xA;        &lt;li&gt; सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/samagra-citizen/&#34;&gt; &lt;button&gt; Without Samagra OTP Samagra Login&lt;/button&gt; &lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Student Id Maker</title>
       <link>http://localhost:1313/id-card/student-id-card/</link>

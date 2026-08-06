@@ -1,0 +1,13 @@
++++
+date = {{ .Date }}
+links = [
+"Visit Tools = https://gajabtools.com"
+]
+url = "/{{ .File.ContentBaseName | lower }}/"
+imageBanner = "  "
+cssStyles = ["css/pages/legal.css"]
+jsFiles = ["js/pages/file-dragger.js"]
+title = '{{ replace .File.ContentBaseName "-" " " | title }} - Gajab Tools'
+description = "  "
+
++++
