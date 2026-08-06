@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+  
+<style>
+.tools-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+    gap:20px;
+}
+
+.tool-card{
+    display:block;
+    text-decoration:none;
+    background:#fff;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 4px 12px rgba(0,0,0,.08);
+}
+
+.tool-card img{
+    width:100%;
+    aspect-ratio:16/10;
+    object-fit:cover;
+}
+
+.tool-name{
+    padding:12px;
+    font-weight:600;
+    text-align:center;
+}
+</style>
+</head>
+<body>
+<h3> जल्द ही सभी Tools अपडेट कर दिये जायें आप यहां बने रहें नये टूल के जानकारी के लियें <a href ="https://whatsapp.com/channel/0029VaDp3nh2P59bZFXPgb35" target="_blank"> Whatsapp Channel Join करें </a></h3>
+
+<h2>Popular Tools</h2>
+
+<div class="tools-grid">
+{{ range where site.RegularPages "Section" "posts" }}
+<a href="{{ .RelPermalink }}" class="tool-card">
+
+    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+
+    <div class="tool-name">
+        {{ .Title }}
+    </div>
+
+</a>
+{{ end }}
+</div>
+
+</body>
+</html>
+
+{{ end }}

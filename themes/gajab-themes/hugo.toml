@@ -23,4 +23,5 @@ theme = "gajab-themes"
     extended = false
     min = '0.146.0'
 [outputs]
-home = ["JSON"]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML", "JSON"]
