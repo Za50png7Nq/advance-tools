@@ -6,3 +6,11 @@ disableAliases = false
 [outputs]
   home = ["HTML", "JSON", "RSS"]
   page = ["HTML", "JSON"]
+[minify]
+  minifyOutput = true
+  disableHTML = false
+  disableCSS = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false

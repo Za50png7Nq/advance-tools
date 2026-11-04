@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="hi" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdn.yojnaportal.com/codex/js/fastloader.js"></script>
+<script data-cdn="codex/js/desabled.js"></script>
+<script data-cdn="/codex/js/additional.js"></script>
+{{ partial "cssStyles/idfarmate.html" . }}
+<script src="https://cdn.yojnaportal.com/codex/js/required/files-data-cdn.js"></script>
+<title>Online ID Cards - Dashboard</title>
+</head>
+<body>
+
+<div class="app-container">
+
+    <!-- LEFT SIDEBAR -->
+    <aside id="sidebar" class="sidebar">
+        <div class="sidebar-top">
+            <div class="sidebar-header">
+                <div class="brand-info"> 
+                    <div class="brand-icon">🔗</div>
+                    <div class="brand-text">
+                        <h1>ID TOOLS</h1>
+                        <p>BANK ID TOOLS</p>
+                    </div>
+                </div>
+                <button id="toggleSidebar" class="collapse-btn" title="Toggle Sidebar" aria-label="Minimize Left Sidebar">◀</button>
+            </div>
+
+            <!-- Left Search Bar -->
+            <div class="sidebar-search">
+                <span class="search-icon">🔍</span>
+                <input type="text" id="sidebarSearch" placeholder="Search main link..." autocomplete="off">
+            </div>
+
+            <nav id="tabsTrack" class="link-tabs-nav" role="tablist"></nav>
+        </div>
+
+        <div class="sidebar-footer">
+            <button id="themeToggle" class="theme-toggle-btn" aria-label="Toggle Light/Dark Theme">
+                <span id="themeIcon">☾</span>
+                <span>Change Theme</span>
+            </button>
+        </div>
+    </aside>
+
+    <!-- CONTENT VIEWER -->
+    <main class="content-viewer">
+        <div class="viewer-header">
+            <div class="viewer-title-group">
+                <span class="viewer-indicator"></span>
+                <span id="currentTabTitle">Select a link</span>
+            </div>
+
+            <!-- Viewer Actions: Fullscreen & Right Sidebar Switch Together -->
+            <div class="viewer-actions">
+                <button id="fullscreenToggleBtn" class="fullscreen-btn" title="Full Screen">
+                    <span id="fullscreenIcon">⛶</span>
+                    <span id="fullscreenText">Full Screen</span>
+                </button>
+
+                <!-- Right Sidebar Switch Beside Fullscreen Button -->
+                <div class="sidebar-switch-wrapper" title="Show/Hide Quick Links Sidebar">
+                    <span>Hide:</span>
+                    <button id="rightSidebarVisibility" class="sidebar-switch on" aria-label="Show or Hide Right Sidebar"></button> 
+                </div>
+            </div>
+        </div>
+
+        <div class="viewer-body">
+            <section id="mainIframeContainer" class="iframe-container">
+                <!-- Floating Exit Button for Main Fullscreen -->
+                <button id="mainExitFullscreenBtn" class="fullscreen-exit-btn" title="Exit Fullscreen">
+                    ✕ Exit Fullscreen
+                </button>
+
+                <div id="loadingOverlay" class="loading-overlay active">
+                    <div class="spinner"></div>
+                    <div class="loading-text">Loading page content...</div>
+                </div>
+
+                <iframe 
+                    id="linkFrame" 
+                    title="Page Viewer Frame"
+                    loading="lazy"
+                    allow="fullscreen"
+                    referrerpolicy="strict-origin-when-cross-origin">
+                </iframe>
+
+                <div id="emptyState" class="empty-state">
+                    <div class="empty-state-icon">🔗</div>
+                    <h3>No Links Available</h3>
+                    <p>Please add links to the configuration array.</p>
+                </div>
+            </section>
+
+            <!-- RIGHT SIDEBAR -->
+            <aside id="rightSidebar" class="right-sidebar">
+                <div class="right-sidebar-header">
+                    <div class="right-sidebar-title">
+                        <span>🔗</span>
+                        <span>Quick Links</span>
+                    </div>
+                    <div class="right-sidebar-actions">
+                        <button id="toggleRightSidebar" class="collapse-btn" title="Toggle Expand/Collapse" aria-label="Minimize Right Sidebar">‹</button>
+                    </div>
+                </div>
+
+                <!-- Right Search Bar Added -->
+                <div class="sidebar-search">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="rightSidebarSearch" placeholder="Search quick link..." autocomplete="off">
+                </div>
+
+                <nav id="rightTabsTrack" class="right-links-nav" role="navigation"></nav>
+            </aside>
+        </div>
+    </main>
+</div>
+
+<!-- FULLSCREEN RIGHT LINK POPUP MODAL -->
+<div id="rightLinkModal" class="right-link-modal" role="dialog" aria-modal="true">
+    <div class="right-link-modal-header">
+        <div class="right-link-modal-title">
+            <span id="rightModalIcon">🔗</span>
+            <span id="rightModalTitle">Page</span>
+        </div>
+        <div class="right-link-modal-actions">
+            <button id="closeRightLinkModal" class="modal-close-btn" aria-label="Close Screen" title="Close">✕</button>
+        </div>
+    </div>
+
+    <div class="right-link-modal-body">
+        <div id="rightModalLoading" class="modal-loading">
+            <div class="spinner"></div>
+            <span>Loading...</span>
+        </div>
+        <iframe id="rightLinkFrame" title="Right Link Viewer" allow="fullscreen"></iframe>
+    </div>
+</div>
+
+<script>
+const links = [
+    { id: "fpb-card", title: "Fino ID Card", icon: "💫", url: "/fpb-identity-card/" },
+    { id: "cbi-card", title: "CBI ID Card", icon: "♨️", url: "/cbi-identity-card/" },
+    { id: "ubi-card", title: "UBI ID Card", icon: "🏕️", url: "/ubi-identity-card/" },
+     { id: "sbi-card", title: "SBI ID Card", icon: "🔰", url: "/sbi-identity-card/" }
+];
+
+const rightLinks = [
+    { id: "image-resizer-editor", title: "Image Resizer", icon: "🖼️", url: "https://www.gajabtools.com/image-resizer-editor/" },
+    { id: "online-resume-maker", title: "Online Resume Maker", icon: "📝", url: "https://www.gajabtools.com/online-resume-maker/" }
+];
+
+</script>
+{{ partial "jsFiles/idfarmate.html" . }}
+</body>
+</html>

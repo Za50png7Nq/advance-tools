@@ -1,54 +1,398 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on V2K Tools</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on V2K Tools</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:48:49 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shadi Ka Biodata Maker</title>
-      <link>http://localhost:1313/shadi-ka-biodata-maker/</link>
-      <pubDate>Thu, 06 Aug 2026 09:48:49 +0530</pubDate>
-      <guid>http://localhost:1313/shadi-ka-biodata-maker/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;    .create-btn-group{&#xD;&#xA;    display:flex;&#xD;&#xA;    gap:10px;&#xD;&#xA;    justify-content:center;&#xD;&#xA;    flex-wrap:wrap; /* Mobile पर नीचे आ जाएंगे */&#xD;&#xA;    margin-top:15px;&#xD;&#xA;}&#xD;&#xA;.create-btn{&#xD;&#xA;&#xD;&#xA;display:inline-flex;&#xD;&#xA;padding:14px 35px;&#xD;&#xA;background:#7b001c;&#xD;&#xA;color:#fff;&#xD;&#xA;text-decoration:none;&#xD;&#xA;border-radius:50px;&#xD;&#xA;font-size:18px;&#xD;&#xA;font-weight:bold;&#xD;&#xA;transition:.3s;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.create-btn:hover{&#xD;&#xA;&#xD;&#xA;background:#a10027;&#xD;&#xA;transform:translateY(-2px);&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;article&gt;&#xD;&#xA;&#xD;&#xA;&lt;h1&gt;Marriage Biodata Maker | ऑनलाइन विवाह बायोडाटा कैसे बनाएं&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;यदि आप शादी के लिए एक सुंदर, प्रोफेशनल और आकर्षक बायोडाटा बनाना चाहते हैं, तो Marriage Biodata Maker आपके लिए सबसे आसान समाधान है। इस ऑनलाइन टूल की सहायता से आप कुछ ही मिनटों में अपना विवाह बायोडाटा तैयार कर सकते हैं। इसमें अपनी व्यक्तिगत जानकारी, शिक्षा, नौकरी, परिवार, फोटो और अन्य आवश्यक विवरण जोड़कर एक प्रिंट करने योग्य एवं शेयर करने योग्य बायोडाटा बनाया जा सकता है।&#xD;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Samagra Id Print - Without OTP</title>
-      <link>http://localhost:1313/samagra-id-print/</link>
-      <pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate>
-      <guid>http://localhost:1313/samagra-id-print/</guid>
-      <description>&lt;head&gt;&#xD;&#xA;   &#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.yojnaportal.com/stylesheet/universal-design.css&#34; &gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .yp-styles {margin: 50px}&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;div class=&#34;yp-styles&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;h2&gt;समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2&gt;&#xD;&#xA;    &lt;ul&gt; &#xD;&#xA;        &lt;li&gt; सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; अपनी 9 अंको की समग्र आई डी दर्ज करे. &lt;/li&gt;&#xD;&#xA;         &lt;ii&gt; अब Contine पर क्लिक करें ।&lt;/ii&gt;&#xD;&#xA;         &lt;li&gt; कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/samagra-citizen/&#34;&gt; &lt;button&gt; Without Samagra OTP Samagra Login&lt;/button&gt; &lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Student Id Maker</title>
-      <link>http://localhost:1313/id-card/student-id-card/</link>
-      <pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate>
-      <guid>http://localhost:1313/id-card/student-id-card/</guid>
-      <description>&lt;head&gt;&#xA;   &#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.yojnaportal.com/stylesheet/universal-design.css&#34; &gt;&#xA;    &lt;style&gt;&#xA;        .yp-styles {margin: 50px}&#xA;    &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;div class=&#34;yp-styles&#34;&gt;&#xA;&lt;h1&gt;Student ID Card Maker: ऑनलाइन स्कूल और कॉलेज स्टूडेंट आईडी कार्ड कैसे बनाएं&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;आज के डिजिटल युग में शैक्षिक संस्थानों, स्कूलों, कॉलेजों और कोचिंग सेंटरों के लिए विद्यार्थियों की पहचान सुनिश्चित करना अत्यंत महत्वपूर्ण हो गया है। &lt;strong&gt;Student ID Card Maker&lt;/strong&gt; एक ऐसा आधुनिक और सरल &lt;strong&gt;Online Student ID Card Generator&lt;/strong&gt; टूल है, जिसकी मदद से आप बिना किसी तकनीकी ज्ञान या महंगे डिजाइनिंग सॉफ्टवेयर के कुछ ही मिनटों में उच्च गुणवत्ता वाले &lt;strong&gt;Professional Student ID Card&lt;/strong&gt; तैयार कर सकते हैं। यह टूल विशेष रूप से शिक्षकों, स्कूल प्रशासकों, कंप्यूटर सेंटर संचालकों और छात्रों के लिए तैयार किया गया है, ताकि वे आसानी से &lt;strong&gt;School Identity Card&lt;/strong&gt; और &lt;strong&gt;College ID Card Generator&lt;/strong&gt; की सुविधाओं का लाभ उठा सकें।&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bank Identity Card</title>
-      <link>http://localhost:1313/identity/bank-id-card/</link>
-      <pubDate>Wed, 05 Aug 2026 20:51:13 +0530</pubDate>
-      <guid>http://localhost:1313/identity/bank-id-card/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;&lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;&lt;title&gt;Bank Passbook Generator&lt;/title&gt;&#xA;&#xA;&lt;style&gt;&#xA;&#xA;.container{&#xA;    max-width:900px;&#xA;    margin:auto;&#xA;}&#xA;h2{&#xA;    text-align:center;&#xA;    margin-bottom:20px;&#xA;}&#xA;table{&#xA;    width:100%;&#xA;    border-collapse:collapse;&#xA;    background:#fff;&#xA;    border-radius:10px;&#xA;    overflow:hidden;&#xA;    box-shadow:0 5px 15px rgba(0,0,0,.08);&#xA;}&#xA;th{&#xA;    background:#1e40af;&#xA;    color:#fff;&#xA;    padding:14px;&#xA;}&#xA;td{&#xA;    padding:14px;&#xA;    border-bottom:1px solid #eee;&#xA;}&#xA;tr:hover{&#xA;    background:#f8fbff;&#xA;}&#xA;.btn{&#xA;    display:inline-block;&#xA;    padding:9px 18px;&#xA;    background:#0d6efd;&#xA;    color:#fff;&#xA;    text-decoration:none;&#xA;    border-radius:6px;&#xA;    font-size:14px;&#xA;    transition:.3s;&#xA;}&#xA;.btn:hover{&#xA;    background:#084298;&#xA;}&#xA;.meta-search{&#xA;    display:none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;h2&gt;Bank Passbook Generator&lt;/h2&gt;&#xA;&lt;div class=&#34;container&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;searchBox&#34; placeholder=&#34;Search Bank...&#34;&#xA;style=&#34;width:100%;padding:12px 15px;margin-bottom:15px;font-size:16px;border:1px solid #ccc;border-radius:8px;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&lt;table&gt;&#xA;&lt;thead&gt;&#xA;&lt;tr&gt;&#xA;&lt;th width=&#34;70%&#34;&gt;Bank Name&lt;/th&gt;&#xA;&lt;th width=&#34;30%&#34;&gt;Action&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/thead&gt;&#xA;&#xA;&lt;tbody&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;FINO PAYMENTS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;fino,fino bank,fino payments bank,fino passbook,fino account,fino payment bank&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=fino&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;STATE BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;sbi,state bank,state bank of india,sbi bank,sbibank,sbin,sbi passbook,sbi account&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=sbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PUNJAB NATIONAL BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;pnb,punjab national bank,pnb bank,pnb passbook,pnb account&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=pnb&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;BANK OF BARODA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;bob,bank of baroda,bob bank,baroda bank,bob passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=bob&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CANARA BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;canara,canara bank,canarabank,canara passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=canara&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;UNION BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;union bank,union bank of india,ubi,union passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=union&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CENTRAL BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;central bank,central bank of india,cbi,cbi bank,central passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=cbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;INDIAN BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;indian bank,indianbank,idib,idib bank,indian passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=indian&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;INDIAN OVERSEAS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;iob,indian overseas bank,iob bank,iob passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=iob&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;boi,bank of india,boi bank,bankofindia,boi passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=boi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;UCO BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;uco,uco bank,ucobank,uco passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=uco&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PUNJAB &amp;amp; SIND BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;psb,punjab and sind bank,punjab &amp; sind bank,psib,psb passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=psb&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;IDBI BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;idbi,idbi bank,idbi passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=idbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AXIS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;axis,axis bank,axisbank,axis passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=axis&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ICICI BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;icici,icici bank,icicibank,icici passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=icici&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;HDFC BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;hdfc,hdfc bank,hdfcbank,hdfc passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=hdfc&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;KOTAK MAHINDRA BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;kotak,kotak bank,kotak mahindra,kotak mahindra bank,kkbk,kotak passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=kotak&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;YES BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;yes bank,yesbank,yes passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=yes&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AU SMALL FINANCE BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;au bank,au small finance bank,aubl,au passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=au&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CUSTOM BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;custom bank,custom,passbook generator&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=custom&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;/tbody&gt;&#xA;&#xA;&lt;/table&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;const searchBox=document.getElementById(&#34;searchBox&#34;);&#xA;&#xA;searchBox.addEventListener(&#34;keyup&#34;,function(){&#xA;&#xA;let filter=this.value.toLowerCase();&#xA;&#xA;document.querySelectorAll(&#34;tbody tr&#34;).forEach(function(row){&#xA;&#xA;if(row.textContent.toLowerCase().includes(filter)){&#xA;row.style.display=&#34;&#34;;&#xA;}else{&#xA;row.style.display=&#34;none&#34;;&#xA;}&#xA;&#xA;});&#xA;&#xA;});&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title>Passport Photo</title>
-      <link>http://localhost:1313/image/passport-photo-maker/</link>
-      <pubDate>Wed, 05 Aug 2026 18:55:06 +0530</pubDate>
-      <guid>http://localhost:1313/image/passport-photo-maker/</guid>
-      <description>&lt;style&gt;&#xA;.passport-guide{&#xA;    max-width:900px;&#xA;    margin:auto;&#xA;    font-family:Arial,sans-serif;&#xA;}&#xA;.passport-guide .step{&#xA;    background:#fff;&#xA;    border:1px solid #e5e7eb;&#xA;    border-radius:12px;&#xA;    margin:25px 0;&#xA;    overflow:hidden;&#xA;    box-shadow:0 3px 10px rgba(0,0,0,.08);&#xA;}&#xA;.passport-guide .step-title{&#xA;    background:linear-gradient(135deg,#0f9d58,#34a853);&#xA;    color:#fff;&#xA;    font-size:20px;&#xA;    font-weight:700;&#xA;    padding:12px 18px;&#xA;}&#xA;.passport-guide .step-content{&#xA;    padding:18px;&#xA;}&#xA;.passport-guide p{&#xA;    font-size:17px;&#xA;    line-height:1.8;&#xA;    color:#333;&#xA;    margin-bottom:15px;&#xA;}&#xA;.passport-guide img{&#xA;    width:100%;&#xA;    border-radius:8px;&#xA;    border:1px solid #ddd;&#xA;}&#xA;.passport-guide .btn{&#xA;    display:inline-block;&#xA;    background:#ff5722;&#xA;    color:#fff!important;&#xA;    text-decoration:none;&#xA;    padding:14px 28px;&#xA;    border-radius:8px;&#xA;    font-weight:bold;&#xA;    font-size:18px;&#xA;}&#xA;.passport-guide .btn:hover{&#xA;    background:#e64a19;&#xA;}&#xA;.passport-guide .cta{&#xA;    text-align:center;&#xA;    margin:40px 0;&#xA;    padding:25px;&#xA;    background:#f5f7fa;&#xA;    border-radius:12px;&#xA;    border:2px dashed #0f9d58;&#xA;}&#xA;.passport-guide .privacy{&#xA;    margin:40px 0;&#xA;    padding:22px;&#xA;    background:#eef9ff;&#xA;    border-left:6px solid #2196f3;&#xA;    border-radius:10px;&#xA;}&#xA;.passport-guide ul{&#xA;    padding-left:22px;&#xA;    line-height:1.9;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h1&gt;फ्री पासपोर्ट फोटो मेकर ऑनलाइन&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;&#xA;अब घर बैठे कुछ ही मिनटों में पासपोर्ट, वीज़ा, आधार कार्ड, पैन कार्ड, ड्राइविंग लाइसेंस, सरकारी फॉर्म, नौकरी आवेदन, आईडी कार्ड तथा अन्य आधिकारिक दस्तावेज़ों के लिए प्रोफेशनल पासपोर्ट साइज फोटो तैयार करें। अपनी फोटो अपलोड करें, लेआउट को अपनी आवश्यकता अनुसार कस्टमाइज़ करें और प्रिंट-रेडी JPG या PDF डाउनलोड करें।&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Id Card- Gajab Tools</title>
-      <link>http://localhost:1313/fpb-identity-card/</link>
-      <pubDate>Wed, 05 Aug 2026 15:52:59 +0530</pubDate>
-      <guid>http://localhost:1313/fpb-identity-card/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;&#xD;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&#34;&gt;&#xD;&#xA;  &lt;title&gt; FPB Identity Card&lt;/title&gt;&#xD;&#xA;  &lt;script&gt;&#xD;&#xA;        function checkAccount() {&#xD;&#xA;            var account = document.getElementById(&#39;account&#39;).value;&#xD;&#xA;            var confirmAccount = document.getElementById(&#39;confirm_account&#39;).value;&#xD;&#xA;&#xD;&#xA;            if (account !== confirmAccount) {&#xD;&#xA;                alert(&#34;Accounts do not match!&#34;);&#xD;&#xA;                return false;&#xD;&#xA;            }&#xD;&#xA;            return true;&#xD;&#xA;        }&#xD;&#xA;    &lt;/script&gt;&#xD;&#xA;  &lt;style&gt;&#xD;&#xA;    /* Styles for the form and preview */&#xD;&#xA;    body {&#xD;&#xA;      font-family: Arial, sans-serif;&#xD;&#xA;      margin: 10px;&#xD;&#xA;      padding: 0;&#xD;&#xA;      color:black;&#xD;&#xA;      &#xD;&#xA;    }&#xD;&#xA;    .container1 {&#xD;&#xA;    width: 530px;&#xD;&#xA;      margin: auto;&#xD;&#xA;    &#xD;&#xA;      padding: 5px;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      color:black;&#xD;&#xA;      box-shadow: 1px 1px 6px 1px #753fa9;&#xD;&#xA;    }&#xD;&#xA;    #title{text-align: center;&#xD;&#xA;      background-color: #753fa9;&#xD;&#xA;      color: #fff; &#xD;&#xA;      border-radius: 8px;&#xD;&#xA;    }&#xD;&#xA;    form {&#xD;&#xA;      margin-bottom: 30px;&#xD;&#xA;    }&#xD;&#xA;    label {&#xD;&#xA;      display: block;&#xD;&#xA;      margin-bottom: 5px;&#xD;&#xA;    }&#xD;&#xA;    input:focus {&#xD;&#xA;  background-color: #753fa9;&#xD;&#xA;  color: white;&#xD;&#xA; &#xD;&#xA;  box-shadow: 1px 1px 6px 1px #753fa9;&#xD;&#xA;}&#xD;&#xA;    input[type=&#34;text&#34;], #ifsc, input[type=&#34;number&#34;],&#xD;&#xA;    textarea {&#xD;&#xA;      width: 95%;&#xD;&#xA;      padding: 8px;&#xD;&#xA;      margin-bottom: 10px;&#xD;&#xA;      border-radius: 4px;&#xD;&#xA;      font-weight:900;&#xD;&#xA;      border: 1px solid #black;&#xD;&#xA;      &#xD;&#xA;      &#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    input[type=&#34;file&#34;] {&#xD;&#xA;      margin-bottom: 20px;&#xD;&#xA;      font-size: 20px;&#xD;&#xA;      width:95%;&#xD;&#xA;     &#xD;&#xA;    }&#xD;&#xA;    input[type=&#34;submit&#34;] {&#xD;&#xA;      background-color: #753fa9;&#xD;&#xA;      color: #fff;&#xD;&#xA;      border: none;&#xD;&#xA;      padding: 10px 20px;&#xD;&#xA;      border-radius: 4px;&#xD;&#xA;      cursor: pointer;&#xD;&#xA;      width: 100%;&#xD;&#xA;      font-size: 22px;&#xD;&#xA;      font-weight: 700;&#xD;&#xA;    }&#xD;&#xA;    input[type=&#34;submit&#34;]:hover {&#xD;&#xA;      background-color: #754f61;&#xD;&#xA;    }&#xD;&#xA;    .photo {&#xD;&#xA;      width: 80px;&#xD;&#xA;  height:120;&#xD;&#xA;      height: auto;&#xD;&#xA;      display: block;&#xD;&#xA;      margin-bottom: 30px;&#xD;&#xA;    }&#xD;&#xA;    .preview-section {&#xD;&#xA;      display: none;&#xD;&#xA;      z-index: -2;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;    .preview-section.active {&#xD;&#xA;      display: block;&#xD;&#xA;    }&#xD;&#xA;    table {&#xD;&#xA;      width: auto;&#xD;&#xA;      border-collapse: collapse;&#xD;&#xA;      margin-bottom: 2px;&#xD;&#xA;       padding: 2px;&#xD;&#xA;        text-align: left;&#xD;&#xA;        font-size: 11px;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;    td, th {text-align: left;}&#xD;&#xA;    &#xD;&#xA;    #previewPhoto {&#xD;&#xA;      padding: 3px;&#xD;&#xA;  position: absolute;&#xD;&#xA;  top: 50px;&#xD;&#xA;  right: 5px;&#xD;&#xA;  width: 90px;&#xD;&#xA;  height:120;&#xD;&#xA;  border-bottom:2px solid #753fa9;&#xD;&#xA;  border-left: 2px solid #753fa9;&#xD;&#xA;  border-top: 2px solid #cc0000;&#xD;&#xA;  border-right:2px solid #cc0000;&#xD;&#xA;  border-radius: 10px;}&#xD;&#xA;  .passbook {&#xD;&#xA;background-color: white;&#xD;&#xA;color:black;&#xD;&#xA; position: relative;&#xD;&#xA;  margin-top: 50px;&#xD;&#xA;  margin-bottom: 20px;&#xD;&#xA;  margin: auto;&#xD;&#xA;  layout: fixed;&#xD;&#xA;line-height: 1.4;&#xD;&#xA;  height: 250px;&#xD;&#xA;  background-repeat: no-repeat;&#xD;&#xA;  paddig:10px;&#xD;&#xA;  border-bottom:2px solid #753fa9;&#xD;&#xA;  border-left: 2px solid #753fa9;&#xD;&#xA;  border-top: 2px solid #cc0000;&#xD;&#xA;  border-right:2px solid #cc0000;&#xD;&#xA;&#xD;&#xA;  border-radius: 10px;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;#headphoto { width:80%; &#xD;&#xA;&#xD;&#xA;margin-left:20px;&#xD;&#xA;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;#bg-img {&#xD;&#xA;  position: absolute;&#xD;&#xA;  z-index: 1;&#xD;&#xA;  margin-top: 50px;&#xD;&#xA;  margin-left:100px;&#xD;&#xA;  height: 160px;&#xD;&#xA;opacity: 60%;}&#xD;&#xA;   &#xD;&#xA;     button {&#xD;&#xA;    width: 20%;&#xD;&#xA;    border: none;&#xD;&#xA;    border-radius: 8px;&#xD;&#xA;    font-weight: 700;&#xD;&#xA;    color: white;&#xD;&#xA;   margin-top: 5px;&#xD;&#xA;   margin-left: 30px;&#xD;&#xA;    font-size:20px;&#xD;&#xA;  }&#xD;&#xA;     button:hover{opacity:60%;&#xD;&#xA;    }&#xD;&#xA; .edit { &#xD;&#xA; background-color: orange;&#xD;&#xA;&#xD;&#xA;  }&#xD;&#xA;  &#xD;&#xA;  .reload {&#xD;&#xA;   background-color: red;&#xD;&#xA;  }&#xD;&#xA;  &#xD;&#xA;  .print {&#xD;&#xA;   background-color: green;&#xD;&#xA;  }&#xD;&#xA;    &#xD;&#xA;    &#xD;&#xA;       .cut {&#xD;&#xA;  border:1px dashed darkcyan;&#xD;&#xA;  padding: 5px;&#xD;&#xA;   margin: auto;&#xD;&#xA;   max-width: 400px;&#xD;&#xA;&#xD;&#xA; }&#xD;&#xA;&#xD;&#xA;#note {&#xD;&#xA;  margin-top: 10px;&#xD;&#xA;  font-size: 6px;&#xD;&#xA;  display:none;&#xD;&#xA;&#xD;&#xA;border: 0.2px solid;&#xD;&#xA;padding: 5px;&#xD;&#xA;border-radius: 5px;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;.left{ float: left; &#xD;&#xA;width: 48%;&#xD;&#xA;margin-left: 1px;}&#xD;&#xA;.right{ float: right;&#xD;&#xA;  width: 48%;&#xD;&#xA;  margin-right: 3px;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;@media only screen and (max-width: 600px) {&#xD;&#xA;  .container1 {&#xD;&#xA;    width: 350px;&#xD;&#xA;      margin: auto;&#xD;&#xA;     &#xD;&#xA;      padding: 5px;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      box-shadow: 1px 1px 6px 1px #753fa9;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  .passbook {&#xD;&#xA;background-color: white;&#xD;&#xA;color:black;&#xD;&#xA; position: relative;&#xD;&#xA;  margin-top: 50px;&#xD;&#xA;  margin-bottom: 20px;&#xD;&#xA;  margin: auto;&#xD;&#xA;  layout: fixed;&#xD;&#xA;line-height: 1.4;&#xD;&#xA;  height: 230px;&#xD;&#xA; &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  #previewPhoto {&#xD;&#xA;      padding: 3px;&#xD;&#xA;  position: absolute;&#xD;&#xA;  top: 50px;&#xD;&#xA;  right: 5px;&#xD;&#xA;  width: 70px;&#xD;&#xA;  height:100;&#xD;&#xA;  border-bottom:2px solid #753fa9;&#xD;&#xA;  border-left: 2px solid #753fa9;&#xD;&#xA;  border-top: 2px solid #cc0000;&#xD;&#xA;  border-right:2px solid #cc0000;&#xD;&#xA;&#xD;&#xA;  border-radius: 10px;}&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;        &#xD;&#xA;        &#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;@media only screen and (max-width: 380px) {&#xD;&#xA;  .container1 {&#xD;&#xA;    width: 320px;&#xD;&#xA;      margin: auto;&#xD;&#xA;     &#xD;&#xA;      padding: 5px;&#xD;&#xA;      border-radius: 8px;&#xD;&#xA;      box-shadow: 1px 1px 6px 1px #753fa9;&#xD;&#xA;    }&#xD;&#xA;  #previewPhoto {&#xD;&#xA;      padding: 3px;&#xD;&#xA;  position: absolute;&#xD;&#xA;  top: 50px;&#xD;&#xA;  right: 5px;&#xD;&#xA;  width: 70px;&#xD;&#xA;  height:100;&#xD;&#xA; border-bottom:2px solid #753fa9;&#xD;&#xA;  border-left: 2px solid #753fa9;&#xD;&#xA;  border-top: 2px solid #cc0000;&#xD;&#xA;  border-right:2px solid #cc0000;&#xD;&#xA;&#xD;&#xA;  border-radius: 10px;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;  &#xD;&#xA;  .passbook {&#xD;&#xA;background-color: white;&#xD;&#xA;color:black;&#xD;&#xA; position: relative;&#xD;&#xA;  margin-top: 50px;&#xD;&#xA;  margin-bottom: 20px;&#xD;&#xA;  margin: auto;&#xD;&#xA;  layout: fixed;&#xD;&#xA;line-height: 1.4;&#xD;&#xA;  height: 230px;&#xD;&#xA; &#xD;&#xA;}&#xD;&#xA;        &#xD;&#xA;        .left{ float: none; &#xD;&#xA;        width: 95%;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;.right{ float: none;&#xD;&#xA;  width: 95%;&#xD;&#xA; &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;    &#xD;&#xA;      @media print {&#xD;&#xA;      /* Hide header when printing */&#xD;&#xA;      .button, #note {&#xD;&#xA;        display: none;&#xD;&#xA;        background-color: #fff;&#xD;&#xA;      }&#xD;&#xA;       .container1 {&#xD;&#xA;  color:black;&#xD;&#xA;       box-shadow: 1px 1px 6px 1px #fff;&#xD;&#xA;    }&#xD;&#xA;     &#xD;&#xA;     &#xD;&#xA;    } &#xD;&#xA;&#xD;&#xA;  &lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;container1&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;form id=&#34;resumeForm&#34; onsubmit=&#34;preview(event)&#34;&gt;&#xD;&#xA;      &lt;h1 id=&#34;title&#34;&gt;Fino Identity Card &lt;/h1&gt;&#xD;&#xA;      &lt;div class=&#34;left&#34;&gt;&#xD;&#xA;      &lt;label for=&#34;CifNumber&#34;&gt;Customer ID:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;CifNumber&#34; name=&#34;CifNumber&#34; placeholder=&#34;Enter Customer Id&#34; maxlength=&#34;11&#34;&gt;&#xD;&#xA;      &#xD;&#xA;      &lt;label for=&#34;account&#34;&gt;Account Number:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;account&#34; name=&#34;account&#34;  placeholder=&#34;Enter Account Number&#34; maxlength=&#34;11&#34; required &gt;&#xD;&#xA;           &lt;label for=&#34;confirm_account&#34;&gt;Confirm Account:&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;number&#34; id=&#34;confirm_account&#34; name=&#34;confirm_account&#34; required placeholder=&#34;Confirm Account Number&#34;&gt;&#xD;&#xA;      &#xD;&#xA;      &lt;label for=&#34;ifsc&#34;&gt;IFSC Code:&lt;/label&gt;&#xD;&#xA;      &lt;select id=&#34;ifsc&#34; name=&#34;ifsc&#34;&gt;&#xD;&#xA;    &lt;option value=&#34;FINO0000001&#34;&gt;FINO0000001&lt;/option&gt;&#xD;&#xA;    &lt;option value=&#34;FINO0001446&#34;&gt;FINO0001446&lt;/option&gt;&#xD;&#xA;    &lt;option value=&#34;FINO0009003&#34;&gt;FINO0009003&lt;/option&gt;&#xD;&#xA;    &lt;option value=&#34;FINO0001561&#34;&gt;FINO0001561&lt;/option&gt;&#xD;&#xA;  &lt;/select&gt;&#xD;&#xA;      &lt;label for=&#34;Customer&#34;&gt;Customer Name:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;Customer&#34; name=&#34;Customer&#34; placeholder=&#34;Enter Customer Number&#34; required&gt;&#xD;&#xA;      &lt;label for=&#34;Perent&#34;&gt;Father/Husbend:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;Perent&#34; name=&#34;Perent&#34; placeholder=&#34;Enter Perent Number&#34;&gt;&#xD;&#xA;&#xD;&#xA;     &#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;div class=&#34;right&#34;&gt;&#xD;&#xA;              &lt;label for=&#34;mobile&#34;&gt;Mobile Number:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;mobile&#34; name=&#34;mobile&#34; maxlength=&#34;10&#34; placeholder=&#34;Enter Mobile Number&#34;&gt;&#xD;&#xA;         &lt;label for=&#34;aadhar&#34;&gt;UID Number:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;aadhar&#34; name=&#34;aadhar&#34; maxlength=&#34;14&#34; oninput=&#34;formatNumber(this)&#34; placeholder=&#34;Enter Aadhar Number&#34;&gt;&#xD;&#xA;      &lt;label for=&#34;Address&#34;&gt;Address:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;Address&#34; name=&#34;Address&#34; rows=&#34;1&#34;  placeholder=&#34;Enter Customer Full Address&#34;&gt;      &lt;label for=&#34;Pincode&#34;&gt;Pin Code:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;Pincode&#34; name=&#34;Pincode&#34;  placeholder=&#34;Enter Pincode Number&#34; maxlength=&#34;6&#34;&gt;&#xD;&#xA;      &#xD;&#xA;      &lt;label for=&#34;KoName&#34;&gt;Kiosk Name:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;KoName&#34; name=&#34;KoName&#34;  placeholder=&#34;Enter Kiosk Name&#34;&gt;&#xD;&#xA;      &lt;label for=&#34;Location&#34;&gt;Kiosk Location:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;text&#34; id=&#34;Location&#34; name=&#34;Location&#34;  placeholder=&#34;Enter Location Name&#34;&gt;&#xD;&#xA;    &#xD;&#xA;      &#xD;&#xA;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;label for=&#34;photo&#34;&gt;Upload Photo:&lt;/label&gt;&#xD;&#xA;      &lt;input type=&#34;file&#34; id=&#34;photo&#34; name=&#34;photo&#34; accept=&#34;image/*&#34;&gt;&#xD;&#xA;      &lt;input type=&#34;submit&#34; value=&#34;Generate Identity Card&#34; onclick =&#34;return checkAccount()&#34;&gt;&#xD;&#xA;    &lt;/form&gt;&#xD;&#xA;&#xD;&#xA;    &lt;div class=&#34;preview-section&#34; id=&#34;previewSection&#34;&gt;&#xD;&#xA;       &lt;div class=&#34;cut&#34;&gt;&#xD;&#xA;      &lt;div class=&#34;passbook&#34;&gt;&#xD;&#xA;        &lt;div  style=&#34;clear: both;&#34;&gt;&#xD;&#xA;        &lt;img id=&#34;bg-img&#34; src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqKKsEnHyOl-Jc2uQmJ7qBFeEGmxzajEuSKY2MS8kxagAZbuwhRg4DyCf7bbUMDT_uAs9irWor3KqhwPCRjERdWN5PQjqfKWObGkSqLQVyOEl2uTXyED7w1roaslYpGdaF6PAiW7FE5CUKFR67KyPl3qJeJ4J2qk5mJfUyNezye3hw1OR0WUiKOcXX3Q/s1000/Fino-Logo.webp&#34;&gt;&lt;/div&gt;&#xD;&#xA;      &lt;div&gt;&#xD;&#xA;     &lt;div id=&#34;photo&#34;&gt; &lt;img id=&#34;previewPhoto&#34; class=&#34;photo&#34; src=&#34;&#34; alt=&#34;Paste Photo&#34; &gt; &lt;/div&gt;&#xD;&#xA;      &lt;img id=&#34;headphoto&#34; src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJzswpJsvnqDzNevBAX7iyE3705VGA0fT7B8RQqg3jJ36n-iE_fFZyWdlojF-88Wu9n-44b9RUiJiVeigzRfH6LlYWwc-Zm9bOeQGvaMfZ6lA793DOyqzevtyEuZA-7DMCKod_zu2cVBD2SaG6QrR3zO-tgvz4oCcUOoSGMCOwn06ZT_M583c4MAsiBA/s900/Fino-Head.webp&#34; alt=&#34;Heading Photo&#34; &gt;&#xD;&#xA;       &#xD;&#xA;      &lt;table id=&#34;previewTable&#34;&gt;&lt;/table&gt;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;         &lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;button&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;button  class=&#34;reload&#34; onclick=&#34;location.reload();&#34;&gt; Reset &lt;i class=&#34;fa fa-refresh&#34; style=&#34;font-size:11px;color:white&#34; &gt;&lt;/i&gt;&lt;/button&gt;&#xD;&#xA;  &lt;button class=&#34;edit&#34; onclick=&#39;editInfo()&#39;&gt;Edit &lt;i class=&#34;fa fa-edit&#34; style=&#34;font-size:11px;color:black&#34;&gt;&lt;/i&gt;&lt;/button&gt;&#xD;&#xA;   &lt;button class=&#34;print&#34; onclick=&#34;window.print()&#34;&gt;Print &lt;i class=&#34;fa fa-print&#34; style=&#34;font-size:11px;color:white&#34;&gt;&lt;/i&gt;&lt;/button&gt;&#xD;&#xA;     &#xD;&#xA;   &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;      &#xD;&#xA;      &lt;br&gt;&#xD;&#xA;&lt;div id=&#34;note&#34;&gt;&lt;b&gt;Disclaimer: &lt;/b&gt; Note, these passbook kiosks are not printed from the official site of the bank, they are typed manually. Hence, it is possible to find mistakes, which you should match yourself. We do not save any of your data in any format. &lt;/div&gt;&#xD;&#xA;  &lt;script&gt;&#xD;&#xA;    function preview(event) {&#xD;&#xA;      event.preventDefault();&#xD;&#xA;&#xD;&#xA;      const formData = {&#xD;&#xA;        CifNumber: document.getElementById(&#39;CifNumber&#39;).value,&#xD;&#xA;        account: document.getElementById(&#39;account&#39;).value,&#xD;&#xA;        ifsc: document.getElementById(&#39;ifsc&#39;).value,&#xD;&#xA;        Customer: document.getElementById(&#39;Customer&#39;).value,&#xD;&#xA;        Perent: document.getElementById(&#39;Perent&#39;).value,&#xD;&#xA;        mobile: document.getElementById(&#39;mobile&#39;).value,&#xD;&#xA;        aadhar: document.getElementById(&#39;aadhar&#39;).value,&#xD;&#xA;          Address: document.getElementById(&#39;Address&#39;).value,&#xD;&#xA;            Pincode: document.getElementById(&#39;Pincode&#39;).value,&#xD;&#xA;              KoName: document.getElementById(&#39;KoName&#39;).value,&#xD;&#xA;              Location: document.getElementById(&#39;Location&#39;).value,&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;        photo: document.getElementById(&#39;photo&#39;).files[0]&#xD;&#xA;      };&#xD;&#xA;&#xD;&#xA;      // Display the preview section&#xD;&#xA;      document.getElementById(&#39;previewSection&#39;).classList.add(&#39;active&#39;);&#xD;&#xA;&#xD;&#xA;// Display the photo in the preview&#xD;&#xA;      if (formData.photo) {&#xD;&#xA;        const reader = new FileReader();&#xD;&#xA;        reader.onload = function(event) {&#xD;&#xA;          const img = document.getElementById(&#39;previewPhoto&#39;);&#xD;&#xA;          img.src = event.target.result;&#xD;&#xA;        };&#xD;&#xA;        reader.readAsDataURL(formData.photo);&#xD;&#xA;      }&#xD;&#xA;&#xD;&#xA;      // Display the form data in a table in the preview&#xD;&#xA;      const previewTable = document.getElementById(&#39;previewTable&#39;);&#xD;&#xA;      previewTable.innerHTML = `&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Cif Number:&lt;/td&gt;&lt;th&gt;${formData.CifNumber}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Account Number:&lt;/td&gt;&lt;th&gt;${formData.account}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;IFSC Code:&lt;/th&gt;&lt;th id=&#34;fpbifscOut&#34;&gt;${formData.ifsc}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Customer Name:&lt;/td&gt;&lt;th&gt;${formData.Customer}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Father/Husband:&lt;/td&gt;&lt;th&gt;${formData.Perent}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;         &lt;tr&gt;&lt;td&gt;Mobile Number:&lt;/td&gt;&lt;th&gt;${formData.mobile}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;UID Number:&lt;/td&gt;&lt;th&gt;${formData.aadhar}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Address:&lt;/td&gt;&lt;th&gt;${formData.Address}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Pin Code:&lt;/td&gt;&lt;th&gt;${formData.Pincode}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;         &lt;tr&gt;&lt;td&gt;Kiosk Name:&lt;/td&gt;&lt;th id=&#34;fpbkoNameOut&#34;&gt;${formData.KoName}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;        &lt;tr&gt;&lt;td&gt;Kiosk Location:&lt;/td&gt;&lt;th id=&#34;fpblocationOut&#34;&gt;${formData.Location}&lt;/th&gt;&lt;/tr&gt;&#xD;&#xA;      `;&#xD;&#xA;       // Show the preview section&#xD;&#xA;      document.getElementById(&#39;previewSection&#39;).style.display = &#39;block&#39;;&#xD;&#xA;      // Hide the form&#xD;&#xA;      document.getElementById(&#39;resumeForm&#39;).style.display = &#39;none&#39;;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    function editInfo() {&#xD;&#xA;      document.getElementById(&#39;previewSection&#39;).style.display = &#39;none&#39;;&#xD;&#xA;      document.getElementById(&#39;resumeForm&#39;).style.display = &#39;block&#39;;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    function formatNumber(input) {&#xD;&#xA;            // Remove any existing spaces and non-numeric characters&#xD;&#xA;            var cleanInput = input.value.replace(/\D/g, &#39;&#39;);&#xD;&#xA;&#xD;&#xA;            // Add space after every 3 digits&#xD;&#xA;            var formattedInput = cleanInput.replace(/(\d{4})/g, &#39;$1 &#39;).trim();&#xD;&#xA;&#xD;&#xA;            // Update the input field with the formatted value&#xD;&#xA;            input.value = formattedInput;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;  &lt;script&gt;&#xD;&#xA;const STORAGE_KEY = &#34;kioskData&#34;;&#xD;&#xA;&#xD;&#xA;// IDs EXACTLY as HTML&#xD;&#xA;const fields = [&#34;ifsc&#34;, &#34;KoName&#34;, &#34;Location&#34;];&#xD;&#xA;&#xD;&#xA;// Auto save on typing&#xD;&#xA;fields.forEach(id =&gt; {&#xD;&#xA;    const el = document.getElementById(id);&#xD;&#xA;    if (el) {&#xD;&#xA;        el.addEventListener(&#34;input&#34;, saveData);&#xD;&#xA;    }&#xD;&#xA;});&#xD;&#xA;&#xD;&#xA;function saveData() {&#xD;&#xA;    const data = {&#xD;&#xA;        ifsc: document.getElementById(&#34;ifsc&#34;).value,&#xD;&#xA;        KoName: document.getElementById(&#34;KoName&#34;).value,&#xD;&#xA;        Location: document.getElementById(&#34;Location&#34;).value&#xD;&#xA;    };&#xD;&#xA;&#xD;&#xA;    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));&#xD;&#xA;&#xD;&#xA;    // Update preview only if exists&#xD;&#xA;    if (document.getElementById(&#34;ifscOut&#34;)) {&#xD;&#xA;        updatePreview(data);&#xD;&#xA;    }&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function loadData() {&#xD;&#xA;    const saved = localStorage.getItem(STORAGE_KEY);&#xD;&#xA;    if (!saved) return;&#xD;&#xA;&#xD;&#xA;    const data = JSON.parse(saved);&#xD;&#xA;&#xD;&#xA;    document.getElementById(&#34;ifsc&#34;).value = data.ifsc || &#34;&#34;;&#xD;&#xA;    document.getElementById(&#34;KoName&#34;).value = data.KoName || &#34;&#34;;&#xD;&#xA;    document.getElementById(&#34;Location&#34;).value = data.Location || &#34;&#34;;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function updatePreview(data) {&#xD;&#xA;    document.getElementById(&#34;fpbifscOut&#34;).innerText = data.ifsc || &#34;&#34;;&#xD;&#xA;    document.getElementById(&#34;fpbkoNameOut&#34;).innerText = data.KoName || &#34;&#34;;&#xD;&#xA;    document.getElementById(&#34;fpblocationOut&#34;).innerText = data.Location || &#34;&#34;;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;// Page refresh ke time auto fill&#xD;&#xA;window.addEventListener(&#34;DOMContentLoaded&#34;, loadData);&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>V2K Tools</title><link>http://localhost:1313/</link><description>Recent content on V2K Tools</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2026 09:48:49 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadi Ka Biodata Maker</title><link>http://localhost:1313/shadi-ka-biodata-maker/</link><pubDate>Thu, 06 Aug 2026 09:48:49 +0530</pubDate><guid>http://localhost:1313/shadi-ka-biodata-maker/</guid><description>&lt;style>
+ .create-btn-group{
+ display:flex;
+ gap:10px;
+ justify-content:center;
+ flex-wrap:wrap; /* Mobile पर नीचे आ जाएंगे */
+ margin-top:15px;
+}
+.create-btn{
+
+display:inline-flex;
+padding:14px 35px;
+background:#7b001c;
+color:#fff;
+text-decoration:none;
+border-radius:50px;
+font-size:18px;
+font-weight:bold;
+transition:.3s;
+
+}
+
+.create-btn:hover{
+
+background:#a10027;
+transform:translateY(-2px);
+
+}
+&lt;/style>
+&lt;article>
+
+&lt;h1>Marriage Biodata Maker | ऑनलाइन विवाह बायोडाटा कैसे बनाएं&lt;/h1>
+
+
+&lt;p>
+यदि आप शादी के लिए एक सुंदर, प्रोफेशनल और आकर्षक बायोडाटा बनाना चाहते हैं, तो Marriage Biodata Maker आपके लिए सबसे आसान समाधान है। इस ऑनलाइन टूल की सहायता से आप कुछ ही मिनटों में अपना विवाह बायोडाटा तैयार कर सकते हैं। इसमें अपनी व्यक्तिगत जानकारी, शिक्षा, नौकरी, परिवार, फोटो और अन्य आवश्यक विवरण जोड़कर एक प्रिंट करने योग्य एवं शेयर करने योग्य बायोडाटा बनाया जा सकता है।
+&lt;/p></description></item><item><title>Samagra Id Print - Without OTP</title><link>http://localhost:1313/samagra-id-print/</link><pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate><guid>http://localhost:1313/samagra-id-print/</guid><description>&lt;head>
+ 
+ &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
+ &lt;style>
+ .yp-styles {margin: 50px}
+ &lt;/style>
+&lt;/head>
+&lt;div class="yp-styles">
+
+ &lt;h2>समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2>
+ &lt;ul> 
+ &lt;li> सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li>
+ &lt;li> फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li>
+ &lt;li> अपनी 9 अंको की समग्र आई डी दर्ज करे. &lt;/li>
+ &lt;ii> अब Contine पर क्लिक करें ।&lt;/ii>
+ &lt;li> कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li>
+ &lt;/ul>
+ &lt;a href="http://localhost:1313/samagra-citizen/"> &lt;button> Without Samagra OTP Samagra Login&lt;/button> &lt;/a>
+ 
+&lt;/div></description></item><item><title>Student Id Maker</title><link>http://localhost:1313/id-card/student-id-card/</link><pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate><guid>http://localhost:1313/id-card/student-id-card/</guid><description>&lt;head>
+ 
+ &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
+ &lt;style>
+ .yp-styles {margin: 50px}
+ &lt;/style>
+&lt;/head>
+&lt;div class="yp-styles">
+&lt;h1>Student ID Card Maker: ऑनलाइन स्कूल और कॉलेज स्टूडेंट आईडी कार्ड कैसे बनाएं&lt;/h1>
+
+&lt;p>आज के डिजिटल युग में शैक्षिक संस्थानों, स्कूलों, कॉलेजों और कोचिंग सेंटरों के लिए विद्यार्थियों की पहचान सुनिश्चित करना अत्यंत महत्वपूर्ण हो गया है। &lt;strong>Student ID Card Maker&lt;/strong> एक ऐसा आधुनिक और सरल &lt;strong>Online Student ID Card Generator&lt;/strong> टूल है, जिसकी मदद से आप बिना किसी तकनीकी ज्ञान या महंगे डिजाइनिंग सॉफ्टवेयर के कुछ ही मिनटों में उच्च गुणवत्ता वाले &lt;strong>Professional Student ID Card&lt;/strong> तैयार कर सकते हैं। यह टूल विशेष रूप से शिक्षकों, स्कूल प्रशासकों, कंप्यूटर सेंटर संचालकों और छात्रों के लिए तैयार किया गया है, ताकि वे आसानी से &lt;strong>School Identity Card&lt;/strong> और &lt;strong>College ID Card Generator&lt;/strong> की सुविधाओं का लाभ उठा सकें।&lt;/p></description></item><item><title>Bank Identity Card</title><link>http://localhost:1313/identity/bank-id-card/</link><pubDate>Wed, 05 Aug 2026 20:51:13 +0530</pubDate><guid>http://localhost:1313/identity/bank-id-card/</guid><description>&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+&lt;meta charset="UTF-8">
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+&lt;title>Bank Passbook Generator&lt;/title>
+
+&lt;style>
+
+.container{
+ max-width:900px;
+ margin:auto;
+}
+h2{
+ text-align:center;
+ margin-bottom:20px;
+}
+table{
+ width:100%;
+ border-collapse:collapse;
+ background:#fff;
+ border-radius:10px;
+ overflow:hidden;
+ box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+th{
+ background:#1e40af;
+ color:#fff;
+ padding:14px;
+}
+td{
+ padding:14px;
+ border-bottom:1px solid #eee;
+}
+tr:hover{
+ background:#f8fbff;
+}
+.btn{
+ display:inline-block;
+ padding:9px 18px;
+ background:#0d6efd;
+ color:#fff;
+ text-decoration:none;
+ border-radius:6px;
+ font-size:14px;
+ transition:.3s;
+}
+.btn:hover{
+ background:#084298;
+}
+.meta-search{
+ display:none;
+}
+&lt;/style>
+
+&lt;/head>
+&lt;body>
+&lt;h2>Bank Passbook Generator&lt;/h2>
+&lt;div class="container">
+ &lt;input type="text" id="searchBox" placeholder="Search Bank..."
+style="width:100%;padding:12px 15px;margin-bottom:15px;font-size:16px;border:1px solid #ccc;border-radius:8px;">
+
+
+
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th width="70%">Bank Name&lt;/th>
+&lt;th width="30%">Action&lt;/th>
+&lt;/tr>
+&lt;/thead>
+
+&lt;tbody>
+
+&lt;tr>
+&lt;td>FINO PAYMENTS BANK&lt;/td>
+&lt;td class="meta-search">
+fino,fino bank,fino payments bank,fino passbook,fino account,fino payment bank
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=fino">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>STATE BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+sbi,state bank,state bank of india,sbi bank,sbibank,sbin,sbi passbook,sbi account
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=sbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>PUNJAB NATIONAL BANK&lt;/td>
+&lt;td class="meta-search">
+pnb,punjab national bank,pnb bank,pnb passbook,pnb account
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=pnb">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>BANK OF BARODA&lt;/td>
+&lt;td class="meta-search">
+bob,bank of baroda,bob bank,baroda bank,bob passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=bob">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CANARA BANK&lt;/td>
+&lt;td class="meta-search">
+canara,canara bank,canarabank,canara passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=canara">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>UNION BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+union bank,union bank of india,ubi,union passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=union">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CENTRAL BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+central bank,central bank of india,cbi,cbi bank,central passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=cbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>INDIAN BANK&lt;/td>
+&lt;td class="meta-search">
+indian bank,indianbank,idib,idib bank,indian passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=indian">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>INDIAN OVERSEAS BANK&lt;/td>
+&lt;td class="meta-search">
+iob,indian overseas bank,iob bank,iob passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=iob">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+boi,bank of india,boi bank,bankofindia,boi passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=boi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>UCO BANK&lt;/td>
+&lt;td class="meta-search">
+uco,uco bank,ucobank,uco passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=uco">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>PUNJAB &amp;amp; SIND BANK&lt;/td>
+&lt;td class="meta-search">
+psb,punjab and sind bank,punjab &amp; sind bank,psib,psb passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=psb">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>IDBI BANK&lt;/td>
+&lt;td class="meta-search">
+idbi,idbi bank,idbi passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=idbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>AXIS BANK&lt;/td>
+&lt;td class="meta-search">
+axis,axis bank,axisbank,axis passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=axis">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>ICICI BANK&lt;/td>
+&lt;td class="meta-search">
+icici,icici bank,icicibank,icici passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=icici">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>HDFC BANK&lt;/td>
+&lt;td class="meta-search">
+hdfc,hdfc bank,hdfcbank,hdfc passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=hdfc">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>KOTAK MAHINDRA BANK&lt;/td>
+&lt;td class="meta-search">
+kotak,kotak bank,kotak mahindra,kotak mahindra bank,kkbk,kotak passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=kotak">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>YES BANK&lt;/td>
+&lt;td class="meta-search">
+yes bank,yesbank,yes passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=yes">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>AU SMALL FINANCE BANK&lt;/td>
+&lt;td class="meta-search">
+au bank,au small finance bank,aubl,au passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=au">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CUSTOM BANK&lt;/td>
+&lt;td class="meta-search">
+custom bank,custom,passbook generator
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=custom">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;/tbody>
+
+&lt;/table>
+
+&lt;/div>
+&lt;script>
+const searchBox=document.getElementById("searchBox");
+
+searchBox.addEventListener("keyup",function(){
+
+let filter=this.value.toLowerCase();
+
+document.querySelectorAll("tbody tr").forEach(function(row){
+
+if(row.textContent.toLowerCase().includes(filter)){
+row.style.display="";
+}else{
+row.style.display="none";
+}
+
+});
+
+});
+&lt;/script>
+&lt;/body>
+&lt;/html></description></item><item><title>Passport Photo</title><link>http://localhost:1313/image/passport-photo-maker/</link><pubDate>Wed, 05 Aug 2026 18:55:06 +0530</pubDate><guid>http://localhost:1313/image/passport-photo-maker/</guid><description>&lt;style>
+.passport-guide{
+ max-width:900px;
+ margin:auto;
+ font-family:Arial,sans-serif;
+}
+.passport-guide .step{
+ background:#fff;
+ border:1px solid #e5e7eb;
+ border-radius:12px;
+ margin:25px 0;
+ overflow:hidden;
+ box-shadow:0 3px 10px rgba(0,0,0,.08);
+}
+.passport-guide .step-title{
+ background:linear-gradient(135deg,#0f9d58,#34a853);
+ color:#fff;
+ font-size:20px;
+ font-weight:700;
+ padding:12px 18px;
+}
+.passport-guide .step-content{
+ padding:18px;
+}
+.passport-guide p{
+ font-size:17px;
+ line-height:1.8;
+ color:#333;
+ margin-bottom:15px;
+}
+.passport-guide img{
+ width:100%;
+ border-radius:8px;
+ border:1px solid #ddd;
+}
+.passport-guide .btn{
+ display:inline-block;
+ background:#ff5722;
+ color:#fff!important;
+ text-decoration:none;
+ padding:14px 28px;
+ border-radius:8px;
+ font-weight:bold;
+ font-size:18px;
+}
+.passport-guide .btn:hover{
+ background:#e64a19;
+}
+.passport-guide .cta{
+ text-align:center;
+ margin:40px 0;
+ padding:25px;
+ background:#f5f7fa;
+ border-radius:12px;
+ border:2px dashed #0f9d58;
+}
+.passport-guide .privacy{
+ margin:40px 0;
+ padding:22px;
+ background:#eef9ff;
+ border-left:6px solid #2196f3;
+ border-radius:10px;
+}
+.passport-guide ul{
+ padding-left:22px;
+ line-height:1.9;
+}
+&lt;/style>
+
+&lt;h1>फ्री पासपोर्ट फोटो मेकर ऑनलाइन&lt;/h1>
+
+&lt;p>
+अब घर बैठे कुछ ही मिनटों में पासपोर्ट, वीज़ा, आधार कार्ड, पैन कार्ड, ड्राइविंग लाइसेंस, सरकारी फॉर्म, नौकरी आवेदन, आईडी कार्ड तथा अन्य आधिकारिक दस्तावेज़ों के लिए प्रोफेशनल पासपोर्ट साइज फोटो तैयार करें। अपनी फोटो अपलोड करें, लेआउट को अपनी आवश्यकता अनुसार कस्टमाइज़ करें और प्रिंट-रेडी JPG या PDF डाउनलोड करें।
+&lt;/p></description></item></channel></rss>

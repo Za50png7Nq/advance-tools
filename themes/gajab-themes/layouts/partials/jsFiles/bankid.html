@@ -1,0 +1,4 @@
+{{ $bundle := slice
+    (resources.Get "js/tools/bank-ids/codexid.crd.min.js") | resources.Concat "js/app.bundle.js" | minify| fingerprint
+}}
+<script src="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" defer></script>

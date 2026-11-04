@@ -1,47 +1,398 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on V2K Tools</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on V2K Tools</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 09:48:49 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shadi Ka Biodata Maker</title>
-      <link>http://localhost:1313/shadi-ka-biodata-maker/</link>
-      <pubDate>Thu, 06 Aug 2026 09:48:49 +0530</pubDate>
-      <guid>http://localhost:1313/shadi-ka-biodata-maker/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;    .create-btn-group{&#xD;&#xA;    display:flex;&#xD;&#xA;    gap:10px;&#xD;&#xA;    justify-content:center;&#xD;&#xA;    flex-wrap:wrap; /* Mobile पर नीचे आ जाएंगे */&#xD;&#xA;    margin-top:15px;&#xD;&#xA;}&#xD;&#xA;.create-btn{&#xD;&#xA;&#xD;&#xA;display:inline-flex;&#xD;&#xA;padding:14px 35px;&#xD;&#xA;background:#7b001c;&#xD;&#xA;color:#fff;&#xD;&#xA;text-decoration:none;&#xD;&#xA;border-radius:50px;&#xD;&#xA;font-size:18px;&#xD;&#xA;font-weight:bold;&#xD;&#xA;transition:.3s;&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.create-btn:hover{&#xD;&#xA;&#xD;&#xA;background:#a10027;&#xD;&#xA;transform:translateY(-2px);&#xD;&#xA;&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;article&gt;&#xD;&#xA;&#xD;&#xA;&lt;h1&gt;Marriage Biodata Maker | ऑनलाइन विवाह बायोडाटा कैसे बनाएं&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;यदि आप शादी के लिए एक सुंदर, प्रोफेशनल और आकर्षक बायोडाटा बनाना चाहते हैं, तो Marriage Biodata Maker आपके लिए सबसे आसान समाधान है। इस ऑनलाइन टूल की सहायता से आप कुछ ही मिनटों में अपना विवाह बायोडाटा तैयार कर सकते हैं। इसमें अपनी व्यक्तिगत जानकारी, शिक्षा, नौकरी, परिवार, फोटो और अन्य आवश्यक विवरण जोड़कर एक प्रिंट करने योग्य एवं शेयर करने योग्य बायोडाटा बनाया जा सकता है।&#xD;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Samagra Id Print - Without OTP</title>
-      <link>http://localhost:1313/samagra-id-print/</link>
-      <pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate>
-      <guid>http://localhost:1313/samagra-id-print/</guid>
-      <description>&lt;head&gt;&#xD;&#xA;   &#xD;&#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.yojnaportal.com/stylesheet/universal-design.css&#34; &gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .yp-styles {margin: 50px}&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;div class=&#34;yp-styles&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;h2&gt;समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2&gt;&#xD;&#xA;    &lt;ul&gt; &#xD;&#xA;        &lt;li&gt; सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li&gt;&#xD;&#xA;         &lt;li&gt; अपनी 9 अंको की समग्र आई डी दर्ज करे. &lt;/li&gt;&#xD;&#xA;         &lt;ii&gt; अब Contine पर क्लिक करें ।&lt;/ii&gt;&#xD;&#xA;         &lt;li&gt; कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li&gt;&#xD;&#xA;    &lt;/ul&gt;&#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/samagra-citizen/&#34;&gt; &lt;button&gt; Without Samagra OTP Samagra Login&lt;/button&gt; &lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Student Id Maker</title>
-      <link>http://localhost:1313/id-card/student-id-card/</link>
-      <pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate>
-      <guid>http://localhost:1313/id-card/student-id-card/</guid>
-      <description>&lt;head&gt;&#xA;   &#xA;    &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.yojnaportal.com/stylesheet/universal-design.css&#34; &gt;&#xA;    &lt;style&gt;&#xA;        .yp-styles {margin: 50px}&#xA;    &lt;/style&gt;&#xA;&lt;/head&gt;&#xA;&lt;div class=&#34;yp-styles&#34;&gt;&#xA;&lt;h1&gt;Student ID Card Maker: ऑनलाइन स्कूल और कॉलेज स्टूडेंट आईडी कार्ड कैसे बनाएं&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;आज के डिजिटल युग में शैक्षिक संस्थानों, स्कूलों, कॉलेजों और कोचिंग सेंटरों के लिए विद्यार्थियों की पहचान सुनिश्चित करना अत्यंत महत्वपूर्ण हो गया है। &lt;strong&gt;Student ID Card Maker&lt;/strong&gt; एक ऐसा आधुनिक और सरल &lt;strong&gt;Online Student ID Card Generator&lt;/strong&gt; टूल है, जिसकी मदद से आप बिना किसी तकनीकी ज्ञान या महंगे डिजाइनिंग सॉफ्टवेयर के कुछ ही मिनटों में उच्च गुणवत्ता वाले &lt;strong&gt;Professional Student ID Card&lt;/strong&gt; तैयार कर सकते हैं। यह टूल विशेष रूप से शिक्षकों, स्कूल प्रशासकों, कंप्यूटर सेंटर संचालकों और छात्रों के लिए तैयार किया गया है, ताकि वे आसानी से &lt;strong&gt;School Identity Card&lt;/strong&gt; और &lt;strong&gt;College ID Card Generator&lt;/strong&gt; की सुविधाओं का लाभ उठा सकें।&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bank Identity Card</title>
-      <link>http://localhost:1313/identity/bank-id-card/</link>
-      <pubDate>Wed, 05 Aug 2026 20:51:13 +0530</pubDate>
-      <guid>http://localhost:1313/identity/bank-id-card/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en&#34;&gt;&#xA;&lt;head&gt;&#xA;&lt;meta charset=&#34;UTF-8&#34;&gt;&#xA;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;&#xA;&lt;title&gt;Bank Passbook Generator&lt;/title&gt;&#xA;&#xA;&lt;style&gt;&#xA;&#xA;.container{&#xA;    max-width:900px;&#xA;    margin:auto;&#xA;}&#xA;h2{&#xA;    text-align:center;&#xA;    margin-bottom:20px;&#xA;}&#xA;table{&#xA;    width:100%;&#xA;    border-collapse:collapse;&#xA;    background:#fff;&#xA;    border-radius:10px;&#xA;    overflow:hidden;&#xA;    box-shadow:0 5px 15px rgba(0,0,0,.08);&#xA;}&#xA;th{&#xA;    background:#1e40af;&#xA;    color:#fff;&#xA;    padding:14px;&#xA;}&#xA;td{&#xA;    padding:14px;&#xA;    border-bottom:1px solid #eee;&#xA;}&#xA;tr:hover{&#xA;    background:#f8fbff;&#xA;}&#xA;.btn{&#xA;    display:inline-block;&#xA;    padding:9px 18px;&#xA;    background:#0d6efd;&#xA;    color:#fff;&#xA;    text-decoration:none;&#xA;    border-radius:6px;&#xA;    font-size:14px;&#xA;    transition:.3s;&#xA;}&#xA;.btn:hover{&#xA;    background:#084298;&#xA;}&#xA;.meta-search{&#xA;    display:none;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&lt;h2&gt;Bank Passbook Generator&lt;/h2&gt;&#xA;&lt;div class=&#34;container&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;searchBox&#34; placeholder=&#34;Search Bank...&#34;&#xA;style=&#34;width:100%;padding:12px 15px;margin-bottom:15px;font-size:16px;border:1px solid #ccc;border-radius:8px;&#34;&gt;&#xA;&#xA;&#xA;&#xA;&lt;table&gt;&#xA;&lt;thead&gt;&#xA;&lt;tr&gt;&#xA;&lt;th width=&#34;70%&#34;&gt;Bank Name&lt;/th&gt;&#xA;&lt;th width=&#34;30%&#34;&gt;Action&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/thead&gt;&#xA;&#xA;&lt;tbody&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;FINO PAYMENTS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;fino,fino bank,fino payments bank,fino passbook,fino account,fino payment bank&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=fino&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;STATE BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;sbi,state bank,state bank of india,sbi bank,sbibank,sbin,sbi passbook,sbi account&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=sbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PUNJAB NATIONAL BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;pnb,punjab national bank,pnb bank,pnb passbook,pnb account&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=pnb&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;BANK OF BARODA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;bob,bank of baroda,bob bank,baroda bank,bob passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=bob&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CANARA BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;canara,canara bank,canarabank,canara passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=canara&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;UNION BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;union bank,union bank of india,ubi,union passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=union&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CENTRAL BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;central bank,central bank of india,cbi,cbi bank,central passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=cbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;INDIAN BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;indian bank,indianbank,idib,idib bank,indian passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=indian&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;INDIAN OVERSEAS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;iob,indian overseas bank,iob bank,iob passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=iob&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;BANK OF INDIA&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;boi,bank of india,boi bank,bankofindia,boi passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=boi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;UCO BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;uco,uco bank,ucobank,uco passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=uco&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PUNJAB &amp;amp; SIND BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;psb,punjab and sind bank,punjab &amp; sind bank,psib,psb passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=psb&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;IDBI BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;idbi,idbi bank,idbi passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=idbi&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AXIS BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;axis,axis bank,axisbank,axis passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=axis&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ICICI BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;icici,icici bank,icicibank,icici passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=icici&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;HDFC BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;hdfc,hdfc bank,hdfcbank,hdfc passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=hdfc&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;KOTAK MAHINDRA BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;kotak,kotak bank,kotak mahindra,kotak mahindra bank,kkbk,kotak passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=kotak&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;YES BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;yes bank,yesbank,yes passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=yes&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AU SMALL FINANCE BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;au bank,au small finance bank,aubl,au passbook&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=au&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;CUSTOM BANK&lt;/td&gt;&#xA;&lt;td class=&#34;meta-search&#34;&gt;&#xA;custom bank,custom,passbook generator&#xA;&lt;/td&gt;&#xA;&lt;td&gt;&lt;a class=&#34;btn&#34; href=&#34;http://localhost:1313/id-card?bank=custom&#34;&gt;Make Passbook&lt;/a&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;/tbody&gt;&#xA;&#xA;&lt;/table&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;const searchBox=document.getElementById(&#34;searchBox&#34;);&#xA;&#xA;searchBox.addEventListener(&#34;keyup&#34;,function(){&#xA;&#xA;let filter=this.value.toLowerCase();&#xA;&#xA;document.querySelectorAll(&#34;tbody tr&#34;).forEach(function(row){&#xA;&#xA;if(row.textContent.toLowerCase().includes(filter)){&#xA;row.style.display=&#34;&#34;;&#xA;}else{&#xA;row.style.display=&#34;none&#34;;&#xA;}&#xA;&#xA;});&#xA;&#xA;});&#xA;&lt;/script&gt;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title>Passport Photo</title>
-      <link>http://localhost:1313/image/passport-photo-maker/</link>
-      <pubDate>Wed, 05 Aug 2026 18:55:06 +0530</pubDate>
-      <guid>http://localhost:1313/image/passport-photo-maker/</guid>
-      <description>&lt;style&gt;&#xA;.passport-guide{&#xA;    max-width:900px;&#xA;    margin:auto;&#xA;    font-family:Arial,sans-serif;&#xA;}&#xA;.passport-guide .step{&#xA;    background:#fff;&#xA;    border:1px solid #e5e7eb;&#xA;    border-radius:12px;&#xA;    margin:25px 0;&#xA;    overflow:hidden;&#xA;    box-shadow:0 3px 10px rgba(0,0,0,.08);&#xA;}&#xA;.passport-guide .step-title{&#xA;    background:linear-gradient(135deg,#0f9d58,#34a853);&#xA;    color:#fff;&#xA;    font-size:20px;&#xA;    font-weight:700;&#xA;    padding:12px 18px;&#xA;}&#xA;.passport-guide .step-content{&#xA;    padding:18px;&#xA;}&#xA;.passport-guide p{&#xA;    font-size:17px;&#xA;    line-height:1.8;&#xA;    color:#333;&#xA;    margin-bottom:15px;&#xA;}&#xA;.passport-guide img{&#xA;    width:100%;&#xA;    border-radius:8px;&#xA;    border:1px solid #ddd;&#xA;}&#xA;.passport-guide .btn{&#xA;    display:inline-block;&#xA;    background:#ff5722;&#xA;    color:#fff!important;&#xA;    text-decoration:none;&#xA;    padding:14px 28px;&#xA;    border-radius:8px;&#xA;    font-weight:bold;&#xA;    font-size:18px;&#xA;}&#xA;.passport-guide .btn:hover{&#xA;    background:#e64a19;&#xA;}&#xA;.passport-guide .cta{&#xA;    text-align:center;&#xA;    margin:40px 0;&#xA;    padding:25px;&#xA;    background:#f5f7fa;&#xA;    border-radius:12px;&#xA;    border:2px dashed #0f9d58;&#xA;}&#xA;.passport-guide .privacy{&#xA;    margin:40px 0;&#xA;    padding:22px;&#xA;    background:#eef9ff;&#xA;    border-left:6px solid #2196f3;&#xA;    border-radius:10px;&#xA;}&#xA;.passport-guide ul{&#xA;    padding-left:22px;&#xA;    line-height:1.9;&#xA;}&#xA;&lt;/style&gt;&#xA;&#xA;&lt;h1&gt;फ्री पासपोर्ट फोटो मेकर ऑनलाइन&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;&#xA;अब घर बैठे कुछ ही मिनटों में पासपोर्ट, वीज़ा, आधार कार्ड, पैन कार्ड, ड्राइविंग लाइसेंस, सरकारी फॉर्म, नौकरी आवेदन, आईडी कार्ड तथा अन्य आधिकारिक दस्तावेज़ों के लिए प्रोफेशनल पासपोर्ट साइज फोटो तैयार करें। अपनी फोटो अपलोड करें, लेआउट को अपनी आवश्यकता अनुसार कस्टमाइज़ करें और प्रिंट-रेडी JPG या PDF डाउनलोड करें।&#xA;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on V2K Tools</title><link>http://localhost:1313/posts/</link><description>Recent content in Posts on V2K Tools</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2026 09:48:49 +0530</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Shadi Ka Biodata Maker</title><link>http://localhost:1313/shadi-ka-biodata-maker/</link><pubDate>Thu, 06 Aug 2026 09:48:49 +0530</pubDate><guid>http://localhost:1313/shadi-ka-biodata-maker/</guid><description>&lt;style>
+ .create-btn-group{
+ display:flex;
+ gap:10px;
+ justify-content:center;
+ flex-wrap:wrap; /* Mobile पर नीचे आ जाएंगे */
+ margin-top:15px;
+}
+.create-btn{
+
+display:inline-flex;
+padding:14px 35px;
+background:#7b001c;
+color:#fff;
+text-decoration:none;
+border-radius:50px;
+font-size:18px;
+font-weight:bold;
+transition:.3s;
+
+}
+
+.create-btn:hover{
+
+background:#a10027;
+transform:translateY(-2px);
+
+}
+&lt;/style>
+&lt;article>
+
+&lt;h1>Marriage Biodata Maker | ऑनलाइन विवाह बायोडाटा कैसे बनाएं&lt;/h1>
+
+
+&lt;p>
+यदि आप शादी के लिए एक सुंदर, प्रोफेशनल और आकर्षक बायोडाटा बनाना चाहते हैं, तो Marriage Biodata Maker आपके लिए सबसे आसान समाधान है। इस ऑनलाइन टूल की सहायता से आप कुछ ही मिनटों में अपना विवाह बायोडाटा तैयार कर सकते हैं। इसमें अपनी व्यक्तिगत जानकारी, शिक्षा, नौकरी, परिवार, फोटो और अन्य आवश्यक विवरण जोड़कर एक प्रिंट करने योग्य एवं शेयर करने योग्य बायोडाटा बनाया जा सकता है।
+&lt;/p></description></item><item><title>Samagra Id Print - Without OTP</title><link>http://localhost:1313/samagra-id-print/</link><pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate><guid>http://localhost:1313/samagra-id-print/</guid><description>&lt;head>
+ 
+ &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
+ &lt;style>
+ .yp-styles {margin: 50px}
+ &lt;/style>
+&lt;/head>
+&lt;div class="yp-styles">
+
+ &lt;h2>समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2>
+ &lt;ul> 
+ &lt;li> सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li>
+ &lt;li> फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li>
+ &lt;li> अपनी 9 अंको की समग्र आई डी दर्ज करे. &lt;/li>
+ &lt;ii> अब Contine पर क्लिक करें ।&lt;/ii>
+ &lt;li> कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li>
+ &lt;/ul>
+ &lt;a href="http://localhost:1313/samagra-citizen/"> &lt;button> Without Samagra OTP Samagra Login&lt;/button> &lt;/a>
+ 
+&lt;/div></description></item><item><title>Student Id Maker</title><link>http://localhost:1313/id-card/student-id-card/</link><pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate><guid>http://localhost:1313/id-card/student-id-card/</guid><description>&lt;head>
+ 
+ &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
+ &lt;style>
+ .yp-styles {margin: 50px}
+ &lt;/style>
+&lt;/head>
+&lt;div class="yp-styles">
+&lt;h1>Student ID Card Maker: ऑनलाइन स्कूल और कॉलेज स्टूडेंट आईडी कार्ड कैसे बनाएं&lt;/h1>
+
+&lt;p>आज के डिजिटल युग में शैक्षिक संस्थानों, स्कूलों, कॉलेजों और कोचिंग सेंटरों के लिए विद्यार्थियों की पहचान सुनिश्चित करना अत्यंत महत्वपूर्ण हो गया है। &lt;strong>Student ID Card Maker&lt;/strong> एक ऐसा आधुनिक और सरल &lt;strong>Online Student ID Card Generator&lt;/strong> टूल है, जिसकी मदद से आप बिना किसी तकनीकी ज्ञान या महंगे डिजाइनिंग सॉफ्टवेयर के कुछ ही मिनटों में उच्च गुणवत्ता वाले &lt;strong>Professional Student ID Card&lt;/strong> तैयार कर सकते हैं। यह टूल विशेष रूप से शिक्षकों, स्कूल प्रशासकों, कंप्यूटर सेंटर संचालकों और छात्रों के लिए तैयार किया गया है, ताकि वे आसानी से &lt;strong>School Identity Card&lt;/strong> और &lt;strong>College ID Card Generator&lt;/strong> की सुविधाओं का लाभ उठा सकें।&lt;/p></description></item><item><title>Bank Identity Card</title><link>http://localhost:1313/identity/bank-id-card/</link><pubDate>Wed, 05 Aug 2026 20:51:13 +0530</pubDate><guid>http://localhost:1313/identity/bank-id-card/</guid><description>&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+&lt;meta charset="UTF-8">
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+&lt;title>Bank Passbook Generator&lt;/title>
+
+&lt;style>
+
+.container{
+ max-width:900px;
+ margin:auto;
+}
+h2{
+ text-align:center;
+ margin-bottom:20px;
+}
+table{
+ width:100%;
+ border-collapse:collapse;
+ background:#fff;
+ border-radius:10px;
+ overflow:hidden;
+ box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+th{
+ background:#1e40af;
+ color:#fff;
+ padding:14px;
+}
+td{
+ padding:14px;
+ border-bottom:1px solid #eee;
+}
+tr:hover{
+ background:#f8fbff;
+}
+.btn{
+ display:inline-block;
+ padding:9px 18px;
+ background:#0d6efd;
+ color:#fff;
+ text-decoration:none;
+ border-radius:6px;
+ font-size:14px;
+ transition:.3s;
+}
+.btn:hover{
+ background:#084298;
+}
+.meta-search{
+ display:none;
+}
+&lt;/style>
+
+&lt;/head>
+&lt;body>
+&lt;h2>Bank Passbook Generator&lt;/h2>
+&lt;div class="container">
+ &lt;input type="text" id="searchBox" placeholder="Search Bank..."
+style="width:100%;padding:12px 15px;margin-bottom:15px;font-size:16px;border:1px solid #ccc;border-radius:8px;">
+
+
+
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th width="70%">Bank Name&lt;/th>
+&lt;th width="30%">Action&lt;/th>
+&lt;/tr>
+&lt;/thead>
+
+&lt;tbody>
+
+&lt;tr>
+&lt;td>FINO PAYMENTS BANK&lt;/td>
+&lt;td class="meta-search">
+fino,fino bank,fino payments bank,fino passbook,fino account,fino payment bank
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=fino">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>STATE BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+sbi,state bank,state bank of india,sbi bank,sbibank,sbin,sbi passbook,sbi account
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=sbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>PUNJAB NATIONAL BANK&lt;/td>
+&lt;td class="meta-search">
+pnb,punjab national bank,pnb bank,pnb passbook,pnb account
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=pnb">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>BANK OF BARODA&lt;/td>
+&lt;td class="meta-search">
+bob,bank of baroda,bob bank,baroda bank,bob passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=bob">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CANARA BANK&lt;/td>
+&lt;td class="meta-search">
+canara,canara bank,canarabank,canara passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=canara">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>UNION BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+union bank,union bank of india,ubi,union passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=union">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CENTRAL BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+central bank,central bank of india,cbi,cbi bank,central passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=cbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>INDIAN BANK&lt;/td>
+&lt;td class="meta-search">
+indian bank,indianbank,idib,idib bank,indian passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=indian">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>INDIAN OVERSEAS BANK&lt;/td>
+&lt;td class="meta-search">
+iob,indian overseas bank,iob bank,iob passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=iob">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>BANK OF INDIA&lt;/td>
+&lt;td class="meta-search">
+boi,bank of india,boi bank,bankofindia,boi passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=boi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>UCO BANK&lt;/td>
+&lt;td class="meta-search">
+uco,uco bank,ucobank,uco passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=uco">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>PUNJAB &amp;amp; SIND BANK&lt;/td>
+&lt;td class="meta-search">
+psb,punjab and sind bank,punjab &amp; sind bank,psib,psb passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=psb">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>IDBI BANK&lt;/td>
+&lt;td class="meta-search">
+idbi,idbi bank,idbi passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=idbi">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>AXIS BANK&lt;/td>
+&lt;td class="meta-search">
+axis,axis bank,axisbank,axis passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=axis">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>ICICI BANK&lt;/td>
+&lt;td class="meta-search">
+icici,icici bank,icicibank,icici passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=icici">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>HDFC BANK&lt;/td>
+&lt;td class="meta-search">
+hdfc,hdfc bank,hdfcbank,hdfc passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=hdfc">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>KOTAK MAHINDRA BANK&lt;/td>
+&lt;td class="meta-search">
+kotak,kotak bank,kotak mahindra,kotak mahindra bank,kkbk,kotak passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=kotak">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>YES BANK&lt;/td>
+&lt;td class="meta-search">
+yes bank,yesbank,yes passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=yes">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>AU SMALL FINANCE BANK&lt;/td>
+&lt;td class="meta-search">
+au bank,au small finance bank,aubl,au passbook
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=au">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;tr>
+&lt;td>CUSTOM BANK&lt;/td>
+&lt;td class="meta-search">
+custom bank,custom,passbook generator
+&lt;/td>
+&lt;td>&lt;a class="btn" href="http://localhost:1313/id-card?bank=custom">Make Passbook&lt;/a>&lt;/td>
+&lt;/tr>
+
+&lt;/tbody>
+
+&lt;/table>
+
+&lt;/div>
+&lt;script>
+const searchBox=document.getElementById("searchBox");
+
+searchBox.addEventListener("keyup",function(){
+
+let filter=this.value.toLowerCase();
+
+document.querySelectorAll("tbody tr").forEach(function(row){
+
+if(row.textContent.toLowerCase().includes(filter)){
+row.style.display="";
+}else{
+row.style.display="none";
+}
+
+});
+
+});
+&lt;/script>
+&lt;/body>
+&lt;/html></description></item><item><title>Passport Photo</title><link>http://localhost:1313/image/passport-photo-maker/</link><pubDate>Wed, 05 Aug 2026 18:55:06 +0530</pubDate><guid>http://localhost:1313/image/passport-photo-maker/</guid><description>&lt;style>
+.passport-guide{
+ max-width:900px;
+ margin:auto;
+ font-family:Arial,sans-serif;
+}
+.passport-guide .step{
+ background:#fff;
+ border:1px solid #e5e7eb;
+ border-radius:12px;
+ margin:25px 0;
+ overflow:hidden;
+ box-shadow:0 3px 10px rgba(0,0,0,.08);
+}
+.passport-guide .step-title{
+ background:linear-gradient(135deg,#0f9d58,#34a853);
+ color:#fff;
+ font-size:20px;
+ font-weight:700;
+ padding:12px 18px;
+}
+.passport-guide .step-content{
+ padding:18px;
+}
+.passport-guide p{
+ font-size:17px;
+ line-height:1.8;
+ color:#333;
+ margin-bottom:15px;
+}
+.passport-guide img{
+ width:100%;
+ border-radius:8px;
+ border:1px solid #ddd;
+}
+.passport-guide .btn{
+ display:inline-block;
+ background:#ff5722;
+ color:#fff!important;
+ text-decoration:none;
+ padding:14px 28px;
+ border-radius:8px;
+ font-weight:bold;
+ font-size:18px;
+}
+.passport-guide .btn:hover{
+ background:#e64a19;
+}
+.passport-guide .cta{
+ text-align:center;
+ margin:40px 0;
+ padding:25px;
+ background:#f5f7fa;
+ border-radius:12px;
+ border:2px dashed #0f9d58;
+}
+.passport-guide .privacy{
+ margin:40px 0;
+ padding:22px;
+ background:#eef9ff;
+ border-left:6px solid #2196f3;
+ border-radius:10px;
+}
+.passport-guide ul{
+ padding-left:22px;
+ line-height:1.9;
+}
+&lt;/style>
+
+&lt;h1>फ्री पासपोर्ट फोटो मेकर ऑनलाइन&lt;/h1>
+
+&lt;p>
+अब घर बैठे कुछ ही मिनटों में पासपोर्ट, वीज़ा, आधार कार्ड, पैन कार्ड, ड्राइविंग लाइसेंस, सरकारी फॉर्म, नौकरी आवेदन, आईडी कार्ड तथा अन्य आधिकारिक दस्तावेज़ों के लिए प्रोफेशनल पासपोर्ट साइज फोटो तैयार करें। अपनी फोटो अपलोड करें, लेआउट को अपनी आवश्यकता अनुसार कस्टमाइज़ करें और प्रिंट-रेडी JPG या PDF डाउनलोड करें।
+&lt;/p></description></item></channel></rss>
