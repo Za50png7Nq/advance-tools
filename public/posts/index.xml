@@ -34,26 +34,7 @@ transform:translateY(-2px);
 
 &lt;p>
 यदि आप शादी के लिए एक सुंदर, प्रोफेशनल और आकर्षक बायोडाटा बनाना चाहते हैं, तो Marriage Biodata Maker आपके लिए सबसे आसान समाधान है। इस ऑनलाइन टूल की सहायता से आप कुछ ही मिनटों में अपना विवाह बायोडाटा तैयार कर सकते हैं। इसमें अपनी व्यक्तिगत जानकारी, शिक्षा, नौकरी, परिवार, फोटो और अन्य आवश्यक विवरण जोड़कर एक प्रिंट करने योग्य एवं शेयर करने योग्य बायोडाटा बनाया जा सकता है।
-&lt;/p></description></item><item><title>Samagra Id Print - Without OTP</title><link>http://localhost:1313/samagra-id-print/</link><pubDate>Thu, 06 Aug 2026 09:23:30 +0530</pubDate><guid>http://localhost:1313/samagra-id-print/</guid><description>&lt;head>
- 
- &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
- &lt;style>
- .yp-styles {margin: 50px}
- &lt;/style>
-&lt;/head>
-&lt;div class="yp-styles">
-
- &lt;h2>समग्र आईडी बिना OTP के निकालने के लिए&lt;/h2>
- &lt;ul> 
- &lt;li> सबसे पहले कोई आईडी ओटीपी से लॉगिन करें &lt;/li>
- &lt;li> फिर लिंक ओपन करें - और बह आई डी डालें जिसकी ओटीपी मिल नही रही या आ नही रही &lt;/li>
- &lt;li> अपनी 9 अंको की समग्र आई डी दर्ज करे. &lt;/li>
- &lt;ii> अब Contine पर क्लिक करें ।&lt;/ii>
- &lt;li> कुछ समय इंजार करें - और आपकी आईडी वह आईडी भी लॉगिन हो जायेगी&lt;/li>
- &lt;/ul>
- &lt;a href="http://localhost:1313/samagra-citizen/"> &lt;button> Without Samagra OTP Samagra Login&lt;/button> &lt;/a>
- 
-&lt;/div></description></item><item><title>Student Id Maker</title><link>http://localhost:1313/id-card/student-id-card/</link><pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate><guid>http://localhost:1313/id-card/student-id-card/</guid><description>&lt;head>
+&lt;/p></description></item><item><title>Student Id Maker</title><link>http://localhost:1313/id-card/student-id-card/</link><pubDate>Thu, 06 Aug 2026 08:35:00 +0530</pubDate><guid>http://localhost:1313/id-card/student-id-card/</guid><description>&lt;head>
  
  &lt;link rel="stylesheet" href="https://cdn.yojnaportal.com/stylesheet/universal-design.css" >
  &lt;style>
