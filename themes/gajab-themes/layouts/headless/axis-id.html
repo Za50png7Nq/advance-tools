@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Axis Identity Card </title>
+     <script src="https://cdn.yojnaportal.com/codex/js/fastloader.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+    <!-- External Libraries & Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+   {{ partial "cssStyles/bankid.html" . }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+    <!-- jsPDF Library added for Blob PDF Generation -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+     <script data-cdn="codex/js/desabled.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+     <script data-cdn="/codex/js/additional.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+   <script src="https://cdn.yojnaportal.com/codex/js/required/files-data-cdn.js" nonce="MzAxNjczMTk1NiwyMTM4MjYzMDAy"></script>
+   <style>
+    :root{--primary-color:#943103;--primary-hover:#7e1b02;--accent-red:#f89706;--bg-gradient:linear-gradient(135deg,#020202 0%,#0e0e0f 100%);--card-shadow:0 10px 25px rgba(0,0,0,0.1);--border-radius:12px;--transition:all 0.3s ease}
+   </style>
+   {{ partial "imp-codes/analytics.html" . }}
+</head>
+<body>
+<!-- Drag & Drop Indicator Overlay -->
+    <div id="dropOverlay">
+        <i class="fa-solid fa-cloud-arrow-up fa-2x" style="margin-bottom: 10px;"></i>
+        Drop Image Anywhere to Upload
+    </div>
+
+
+    <div class="app-container" id="appContainer">
+        <!-- Banner Header -->
+        <div class="header-banner">
+            <h1 id="title"><i class="fa-solid fa-id-card"></i> Axis Identity Card Generator</h1>
+        </div>
+
+
+        <!-- Left Column: Input Form & Toggles -->
+        <div class="form-section" id="formSection">
+            
+            <!-- Optional Fields Toggles & Live Switch -->
+            <div class="field-toggles">
+                <div class="toggle-group-left">
+                    <label class="toggle-item">
+                        <input type="checkbox" id="toggleOpeningDate" uncheck onchange="toggleOptionalFields(); autoSaveSettings();">
+                        Opening Date
+                    </label>
+                    <label class="toggle-item">
+                        <input type="checkbox" id="toggleAadhar" checked onchange="toggleOptionalFields(); autoSaveSettings();">
+                        UID Number
+                    </label>
+                    <label class="toggle-item">
+                        <input type="checkbox" id="toggleMobile" uncheck onchange="toggleOptionalFields(); autoSaveSettings();">
+                        Mobile Number
+                    </label>
+                </div>
+
+
+                <!-- Show Live Preview Panel Switch -->
+                <label class="toggle-item live-preview-switch">
+                    <span>Live Preview:</span>
+                    <span class="switch">
+                        <input type="checkbox" id="toggleLivePreview" uncheck onchange="toggleLivePanel(); autoSaveSettings();">
+                        <span class="slider"></span>
+                    </span>
+                </label>
+            </div>
+
+
+            <form id="resumeForm" onsubmit="handleFormGenerate(event)">
+                <div class="form-grid">
+                    
+                    <div class="form-group" id="groupOpeningDate">
+                        <label for="openingDate"><i class="fa-regular fa-calendar"></i> Opening Date:</label>
+                        <input type="date" id="openingDate" name="openingDate" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="CifNumber"><i class="fa-solid fa-hashtag"></i> Cif / Customer ID:</label>
+                        <input type="text" id="CifNumber" name="CifNumber" placeholder="Enter Cif / Customer ID" maxlength="11" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="account"><i class="fa-solid fa-piggy-bank"></i> Account Number:</label>
+                        <input type="text" id="account" name="account" placeholder="Enter Account Number" maxlength="16" required oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="confirm_account"><i class="fa-solid fa-check-double"></i> Confirm Account:</label>
+                        <input type="text" id="confirm_account" name="confirm_account" placeholder="Confirm Account Number"  required oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="ifsc"><i class="fa-solid fa-building-columns"></i> IFSC Code:</label>
+                        <input type="text" id="ifsc" name="ifsc" placeholder="UTIB0000060 " Value="UTIB0000060" maxlength="11" required oninput="liveUpdate();">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Customer"><i class="fa-solid fa-user"></i> Customer Name:</label>
+                        <input type="text" id="Customer" name="Customer" placeholder="Enter Customer Name" required oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Perent"><i class="fa-solid fa-users"></i> Father/Husband:</label>
+                        <input type="text" id="Perent" name="Perent" placeholder="Enter Parent Name" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group" id="groupMobile">
+                        <label for="mobile"><i class="fa-solid fa-phone"></i> Mobile Number:</label>
+                        <input type="text" id="mobile" name="mobile" maxlength="10" placeholder="Enter 10-digit Mobile" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group" id="groupAadhar">
+                        <label for="aadhar"><i class="fa-solid fa-address-card"></i> UID Number:</label>
+                        <input type="text" id="aadhar" name="aadhar" maxlength="14" placeholder="Enter UID Number" oninput="formatAadhar(this); liveUpdate();">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Pincode"><i class="fa-solid fa-location-dot"></i> Pin Code:</label>
+                        <input type="text" id="Pincode" name="Pincode" placeholder="6-Digit Pin Code" maxlength="6" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group full-width">
+                        <label for="Address"><i class="fa-solid fa-map-location-dot"></i> Address:</label>
+                        <input type="text" id="Address" name="Address" placeholder="Enter Full Address" oninput="liveUpdate()">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="KoName"><i class="fa-solid fa-store"></i> Kiosk Name:</label>
+                        <input type="text" id="KoName" name="KoName" placeholder="Enter Kiosk Name" oninput="liveUpdate(); autoSaveSettings();">
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Location"><i class="fa-solid fa-city"></i> Kiosk Location:</label>
+                        <input type="text" id="Location" name="Location" placeholder="Enter Location" oninput="liveUpdate(); autoSaveSettings();">
+                    </div>
+
+
+                    <!-- Upload Area -->
+                    <div class="form-group full-width">
+                        <label><i class="fa-solid fa-image"></i> Customer Photo Upload:</label>
+                        <div class="upload-zone" id="uploadZone">
+                            <i class="fa-solid fa-cloud-arrow-up"></i>
+                            <p><strong>Click to upload</strong>, drag & drop, or paste (Ctrl+V)</p>
+                            <input type="file" id="photo" name="photo" accept="image/*" onchange="handleFileSelect(event)">
+                        </div>
+                    </div>
+
+
+                </div>
+
+
+                <!-- Generate Button (Appears only when Live Preview is OFF) -->
+                <button type="submit" class="btn-generate-submit" id="btnGenerateSubmit"><i class="fa-solid fa-wand-magic-sparkles"></i> Generate Identity Card</button>
+            </form>
+        </div>
+
+
+        <!-- Right Column: Second Layout (Preview Card & Controls) -->
+        <div class="preview-section" id="previewSection">
+            <div class="cut" id="cardExportContainer">
+                <div class="passbook" id="passbookCard">
+                    
+                    <!-- Full Width Card Header Image -->
+                    <img id="headphoto" src="/AXIS%20HEADER_15174330617432691585_hu_fbc090530ac5d0d7.webp" alt="Header Banner">
+
+
+                    <!-- Background Watermark -->
+                    <img id="bg-img" src="/AXIS%20LOGO_12662863755206747201_hu_2b952d17688fdf8c.webp" alt="Background Watermark">
+
+
+                    <div class="card-inner-padding">
+                        
+                        <!-- Right Column Vertical Stack for Photo & QR -->
+                        <div class="right-photo-qr-stack">
+                            <img id="previewPhoto" class="photo" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='90' height='110' viewBox='0 0 90 110'><rect width='100%' height='100%' fill='%23eee'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='sans-serif' font-size='12' fill='%23aaa'>No Photo</text></svg>" alt="Customer Photo">
+                            
+                            <!-- QR Code Fixed Directly Below Photo -->
+                            <div class="qr-card-container" id="qrCardContainer">
+                                <img id="previewQR" src="" alt="QR Code">
+                            </div>
+                        </div>
+
+
+                        <!-- Data Table -->
+                        <table id="previewTable">
+                            <tbody>
+    
+                                <tr>
+                                    <td>Cif Number:</td>
+                                    <th id="outCifNumber"></th>
+                                </tr>
+                                <tr>
+                                    <td>Account Number:</td>
+                                    <th id="outAccount"></th>
+                                </tr>
+                                <tr>
+                                    <td>IFSC Code:</td>
+                                    <th id="fpbifscOut"></th>
+                                </tr>
+                                <tr>
+                                    <td>Customer Name:</td>
+                                    <th id="outCustomer"></th>
+                                </tr>
+                                <tr>
+                                    <td>Father/Husband:</td>
+                                    <th id="outPerent"></th>
+                                </tr>
+                                <tr id="rowMobile">
+                                    <td>Mobile Number:</td>
+                                    <th id="outMobile"></th>
+                                </tr>
+                                <tr id="rowAadhar">
+                                    <td>UID Number:</td>
+                                    <th id="outAadhar"></th>
+                                </tr>
+                                <tr>
+                                    <td>Address:</td>
+                                    <th id="outAddress"></th>
+                                </tr>
+                                <tr>
+                                    <td>Pin Code:</td>
+                                    <th id="outPincode"></th>
+                                </tr>
+                                <tr id="rowOpeningDate">
+                                    <td>Date of Opening:</td>
+                                    <th id="outOpeningDate"></th>
+                                </tr>
+                                <tr>
+                                    <td>Kiosk Name:</td>
+                                    <th id="fpbkoNameOut"></th>
+                                </tr>
+                                <tr>
+                                    <td>Kiosk Location:</td>
+                                    <th id="fpblocationOut"></th>
+                                </tr>
+                            </tbody>
+                        </table>
+
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Controls Panel -->
+            <div class="controls-wrapper">
+                
+                <!-- QR Switch directly below preview card -->
+                <div class="qr-toggle-row">
+                    <span><i class="fa-solid fa-qrcode"></i> Display QR Code</span>
+                    <label class="switch">
+                        <input type="checkbox" id="qrToggle" uncheck onchange="toggleQRVisibility(); autoSaveSettings();">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+
+
+                <!-- Action Buttons Grid (Added Blob PDF button) -->
+                <div class="button-group">
+                    <button type="button" class="btn btn-edit-back" id="btnBackEdit" onclick="showFormBack()"><i class="fa-solid fa-pen-to-square"></i> Edit</button>
+                    <button type="button" class="btn btn-reload" onclick="resetForm()"><i class="fa-solid fa-rotate-right"></i> Reset</button>
+                    <button type="button" class="btn btn-download" onclick="downloadJPG()"><i class="fa-solid fa-download"></i> JPG</button>
+                    <button type="button" class="btn btn-pdf" onclick="openPDFBlob()"><i class="fa-solid fa-file-pdf"></i> PDF</button>
+                    <button type="button" class="btn btn-print" onclick="triggerPrint()"><i class="fa-solid fa-print"></i> Print</button>
+                </div>
+
+
+                <div id="note">
+                    <b>Disclaimer:</b> Note, these passbook kiosks are not printed from the official site of the bank, they are typed manually. Hence, it is possible to find mistakes, which you should match yourself. We do not save any of your data in any format.
+                </div>
+            </div>
+        </div>
+    </div>
+   {{ partial "jsFiles/bankid.html" . }}
+</body>
+</html>
